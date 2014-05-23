@@ -17,3 +17,10 @@ You can run the classifier like this:
     ./adj_supersense_tagger.sh
 
 
+See classifier predictions for all available adjective word lemmas at:
+    
+    predicted_supersenses/words.predicted
+
+See classifier predictions for synsets at:
+    
+    predicted_supersenses/synsets.predicted

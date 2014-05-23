@@ -1,0 +1,160 @@
+************* GOLD *************************************
+
+Expert-Novice agreement on 148 test items (2 items were not tagged)
+Cohen's kappa:  0.471850865513   (moderate) 
+
+Expert-Novice conf. matrix
+
+              |              M                      |
+              |              I                      |
+              |              S                      |
+              |              C     P                |
+              |              E     E           S    |
+              |  B           L     R  Q        U  T |
+              |  E     F     L     C  U     S  B  E |
+              |  H     E     A  M  E  A  S  P  S  M |
+              |  A     E     N  O  P  N  O  A  T  P |
+              |  V  B  L  M  E  T  T  T  C  T  A  O |
+              |  I  O  I  I  O  I  I  I  I  I  N  R |
+              |  O  D  N  N  U  O  O  T  A  A  C  A |
+              |  R  Y  G  D  S  N  N  Y  L  L  E  L |
+--------------+-------------------------------------+
+     BEHAVIOR |<13> .  5  .  1  .  1  .  .  .  .  1 |
+         BODY |  2 <5> .  .  1  .  .  .  .  1  1  . |
+      FEELING |  2  3 <4> 1  .  .  .  .  .  .  .  . |
+         MIND |  1  .  1 <1> 2  .  .  1  .  .  .  1 |
+MISCELLANEOUS |  2  3  7  1<25> .  1  1  4  1  .  1 |
+       MOTION |  .  .  .  .  . <.> .  .  .  .  .  1 |
+   PERCEPTION |  1  .  .  .  1  . <5> .  .  .  2  . |
+     QUANTITY |  .  1  2  .  3  .  . <1> .  1  .  . |
+       SOCIAL |  .  .  1  .  .  .  .  . <6> .  .  . |
+      SPATIAL |  .  .  .  .  3  .  .  .  .<14> .  1 |
+    SUBSTANCE |  .  .  1  .  3  .  .  .  .  . <2> . |
+     TEMPORAL |  .  .  .  .  .  .  .  .  .  .  . <5>|
+--------------+-------------------------------------+
+
+
+
+
+************* synsets_annotations.prediction *************************************
+
+GOLD-MACE accuracy & agreement
+
+Accuracy: 0.527027027027
+Cohen's kappa:  0.463851368835    (moderate) 
+
+MACE accuracy on Expert's annotations:  0.439189189189
+MACE accuracy on Novice's annotations:  0.378378378378
+MACE accuracy on Expert's and Novice's annotations:  0.290540540541
+MACE incorrect annotations:  0.472972972973
+MACE average rank on Expert's annotations:  3.06081081081
+MACE average rank on Novice's annotations:  3.93243243243
+
+
+
+              |              M                   |
+              |              I                   |
+              |              S                   |
+              |              C  P                |
+              |              E  E           S    |
+              |  B           L  R  Q        U  T |
+              |  E     F     L  C  U     S  B  E |
+              |  H     E     A  E  A  S  P  S  M |
+              |  A     E     N  P  N  O  A  T  P |
+              |  V  B  L  M  E  T  T  C  T  A  O |
+              |  I  O  I  I  O  I  I  I  I  N  R |
+              |  O  D  N  N  U  O  T  A  A  C  A |
+              |  R  Y  G  D  S  N  Y  L  L  E  L |
+--------------+----------------------------------+
+     BEHAVIOR | <2> .  1  .  3  .  .  .  .  .  . |
+         BODY |  . <8> 2  .  .  1  .  .  .  .  . |
+      FEELING |  8  2<15> .  5  .  1  1  .  1  2 |
+         MIND |  2  .  . <1> .  1  .  .  .  .  . |
+MISCELLANEOUS |  .  .  .  1<14> .  .  .  .  .  1 |
+   PERCEPTION |  1  2  1  1  4 <6> .  .  .  .  . |
+     QUANTITY |  .  .  .  .  2  . <.> .  .  .  . |
+       SOCIAL |  1  .  .  .  .  .  . <6> .  .  . |
+      SPATIAL |  3  1  2  .  4  .  2  3<16> .  1 |
+    SUBSTANCE |  .  .  1  .  1  1  .  .  1 <4> . |
+     TEMPORAL |  2  .  1  .  2  .  .  .  1  . <6>|
+--------------+----------------------------------+
+
+************* BASELINE *************************************
+
+GOLD-Classifier accuracy & agreement 
+For classifier we take majority class (top-1 posterior for majority of lemmas)
+
+Accuracy: 0.486486486486
+Cohen's kappa:  0.422972349048
+              |              M                   |
+              |              I                   |
+              |              S                   |
+              |              C  P                |
+              |              E  E           S    |
+              |  B           L  R  Q        U  T |
+              |  E     F     L  C  U     S  B  E |
+              |  H     E     A  E  A  S  P  S  M |
+              |  A     E     N  P  N  O  A  T  P |
+              |  V  B  L  M  E  T  T  C  T  A  O |
+              |  I  O  I  I  O  I  I  I  I  N  R |
+              |  O  D  N  N  U  O  T  A  A  C  A |
+              |  R  Y  G  D  S  N  Y  L  L  E  L |
+--------------+----------------------------------+
+     BEHAVIOR | <2> .  1  .  3  .  .  .  .  .  . |
+         BODY |  . <8> 2  .  .  1  .  .  .  .  . |
+      FEELING |  9  2<13> .  6  .  1  1  .  1  2 |
+         MIND |  2  .  . <1> .  1  .  .  .  .  . |
+MISCELLANEOUS |  .  1  .  1<13> .  .  .  .  .  1 |
+   PERCEPTION |  1  2  1  1  5 <5> .  .  .  .  . |
+     QUANTITY |  .  .  .  .  1  . <.> .  1  .  . |
+       SOCIAL |  1  .  .  .  1  .  . <5> .  .  . |
+      SPATIAL |  3  1  2  .  5  .  1  3<16> .  1 |
+    SUBSTANCE |  .  .  2  .  2  1  .  .  1 <2> . |
+     TEMPORAL |  2  .  1  .  2  .  .  .  1  . <6>|
+--------------+----------------------------------+
+
+
+
+************* Classifier soft voting *************************************
+
+GOLD-Classifier accuracy & agreement 
+For classifier we sum posteriors of all lemmas in synset and take top-1
+
+Accuracy: 0.560810810811
+Cohen's kappa:  0.499948019545
+
+Classifier accuracy on Expert's annotations:  0.445945945946
+Classifier accuracy on Novice's annotations:  0.398648648649
+Classifier accuracy on Expert's and Novice's annotations:  0.283783783784
+Classifier incorrect annotations:  0.439189189189
+Classifier average rank on Expert's annotations:  2.93918918919
+Classifier average rank on Novice's annotations:  3.55405405405
+
+
+              |              M                   |
+              |              I                   |
+              |              S                   |
+              |              C  P                |
+              |              E  E           S    |
+              |  B           L  R  Q        U  T |
+              |  E     F     L  C  U     S  B  E |
+              |  H     E     A  E  A  S  P  S  M |
+              |  A     E     N  P  N  O  A  T  P |
+              |  V  B  L  M  E  T  T  C  T  A  O |
+              |  I  O  I  I  O  I  I  I  I  N  R |
+              |  O  D  N  N  U  O  T  A  A  C  A |
+              |  R  Y  G  D  S  N  Y  L  L  E  L |
+--------------+----------------------------------+
+     BEHAVIOR | <2> .  1  .  3  .  .  .  .  .  . |
+         BODY |  1 <5> 2  .  .  1  .  .  1  1  . |
+      FEELING |  8  2<14> .  6  .  1  1  .  1  2 |
+         MIND |  2  .  . <1> .  1  .  .  .  .  . |
+MISCELLANEOUS |  .  .  1  .<14> .  .  .  .  .  1 |
+   PERCEPTION |  2  2  1  1  5 <4> .  .  .  .  . |
+     QUANTITY |  .  .  .  .  2  . <.> .  .  .  . |
+       SOCIAL |  1  .  .  .  1  .  . <5> .  .  . |
+      SPATIAL |  2  2  2  .  5  .  1  3<16> .  1 |
+    SUBSTANCE |  .  .  2  .  1  1  .  .  1 <3> . |
+     TEMPORAL |  2  .  1  .  2  .  .  .  1  . <6>|
+--------------+----------------------------------+
+

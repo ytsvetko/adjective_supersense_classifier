@@ -1,0 +1,15 @@
+adjectives+annotations+MACE.txt file contains SemCor adjectives 
+annotated by 3-5 Amazon Mechanical Turk workers. 
+
+File format 
+
+word \t annotations \t aggregated label
+
+Responses for each lemma are aggregated with the MACE tool, which takes 
+annotator-specific patterns into account to better determine the true label. 
+
+http://www.isi.edu/publications/licensed-sw/mace/
+
+Dirk Hovy, Taylor Berg-Kirkpatrick, Ashish Vaswani,
+and Eduard Hovy. 2013. Learning Whom to trust
+with MACE. In Proceedings of NAACL HLT.

@@ -1,0 +1,1217 @@
+main synset	synset	examples	lemmas	label	definition
+Synset('involuntary.a.01')	Synset('involuntary.a.01')	involuntary manslaughter / involuntary servitude / an involuntary shudder / It (becoming a hero) was involuntary. They sank my boat"- John F.Kennedy	involuntary, nonvoluntary, unvoluntary	FEELING	not subject to the control of the will
+Synset('involuntary.a.01')	Synset('driven.s.01')	mobs goaded by blind hatred	driven, goaded		compelled forcibly by an outside agency
+Synset('involuntary.a.01')	Synset('unwilling.s.02')		unwilling		in spite of contrary volition
+Synset('involuntary.a.01')	Synset('unwilled.s.02')		unwilled		without deliberate volition
+Synset('involuntary.a.01')	Synset('forced.s.02')	promised to abolish forced labor	forced		forced or compelled
+Synset('involuntary.a.01')	Synset('unconscious.s.02')		unconscious		without conscious volition
+Synset('outgoing.a.01')	Synset('outgoing.a.01')	an outgoing steamship	outgoing	MOTION	leaving a place or a position
+Synset('outgoing.a.01')	Synset('past.s.02')	a retiring member of the board	past, preceding, retiring		of a person who has held and relinquished a position or office
+Synset('outgoing.a.01')	Synset('effluent.s.01')		effluent, outflowing		that is flowing outward
+Synset('outgoing.a.01')	Synset('out.s.06')	the out doorway / the out basket	out		directed outward or serving to direct something outward
+Synset('outgoing.a.01')	Synset('outbound.s.01')	the departing train / an outward journey / outward-bound ships	outbound, outward, outward-bound		that is going out or leaving
+Synset('arbitrary.a.01')	Synset('arbitrary.a.01')	an arbitrary decision / the arbitrary rule of a dictator / an arbitrary penalty / of arbitrary size and shape / an arbitrary choice / arbitrary division of the group into halves	arbitrary	MISCELLANEOUS	based on or subject to individual discretion or preference or sometimes impulse or caprice
+Synset('arbitrary.a.01')	Synset('discretionary.s.01')	The commission has discretionary power to award extra funds	discretionary, discretional		having or using the ability to act or decide according to your own discretion or judgment
+Synset('arbitrary.a.01')	Synset('absolute.s.03')	an absolute monarch	absolute		not limited by law
+Synset('arbitrary.a.01')	Synset('capricious.s.02')	a capricious refusal / authoritarian rulers are frequently capricious / the victim of whimsical persecutions	capricious, impulsive, whimsical		determined by chance or impulse or whim rather than by necessity or reason
+Synset('fit.a.01')	Synset('fit.a.01')	a fit subject for discussion / it is fit and proper that you be there / water fit to drink / fit for duty / do as you see fit to	fit	MISCELLANEOUS	meeting adequate standards for a purpose
+Synset('fit.a.01')	Synset('suitable.s.01')	a tractor suitable (or fit) for heavy duty / not an appropriate (or fit) time for flippancy	suitable, suited		meant or adapted for an occasion or use
+Synset('fit.a.01')	Synset('worthy.s.03')	behavior worthy of reprobation / a fact worthy of attention	worthy		having qualities or abilities that merit recognition in some way
+Synset('fit.a.01')	Synset('acceptable.s.04')	the water was acceptable for drinking	acceptable		adequate for the purpose
+Synset('beautiful.a.01')	Synset('beautiful.a.01')	a beautiful child / beautiful country / a beautiful painting / a beautiful theory / a beautiful party	beautiful	MISCELLANEOUS	delighting the senses or exciting intellectual or emotional admiration
+Synset('beautiful.a.01')	Synset('beauteous.s.01')		beauteous		(poetic )beautiful, especially to the sight
+Synset('beautiful.a.01')	Synset('lovely.s.01')		lovely		appealing to the emotions as well as the eye
+Synset('beautiful.a.01')	Synset('scenic.s.01')	scenic drives	scenic		used of locations; having beautiful natural scenery
+Synset('beautiful.a.01')	Synset('exquisite.s.04')	her exquisite face	exquisite		of extreme beauty
+Synset('beautiful.a.01')	Synset('picturesque.s.01')	a picturesque village	picturesque		suggesting or suitable for a picture; pretty as a picture
+Synset('beautiful.a.01')	Synset('gorgeous.s.01')	a gorgeous Victorian gown	gorgeous		dazzlingly beautiful
+Synset('beautiful.a.01')	Synset('pulchritudinous.s.01')	pulchritudinous movie stars	pulchritudinous		used of persons only; having great physical beauty
+Synset('beautiful.a.01')	Synset('pretty.s.01')	pretty girl / pretty song / pretty room	pretty		pleasing by delicacy or grace; not imposing
+Synset('beautiful.a.01')	Synset('dishy.s.01')	a dishy blonde	dishy		(informal British) sexually attractive
+Synset('beautiful.a.01')	Synset('fine-looking.s.01')	a fine-looking woman / a good-looking man / better-looking than her sister / very pretty but not so extraordinarily handsome"- Thackeray / our southern women are well-favored"- Lillian Hellman	fine-looking, good-looking, better-looking, handsome, well-favored, well-favoured		pleasing in appearance especially by reason of conformity to ideals of form and proportion
+Synset('beautiful.a.01')	Synset('ravishing.s.01')	a ravishing blonde	ravishing		stunningly beautiful
+Synset('beautiful.a.01')	Synset('pretty-pretty.s.01')		pretty-pretty		ostentatiously or inappropriately pretty
+Synset('beautiful.a.01')	Synset('stunning.s.04')	quite stunning with large dark eyes and a beautiful high-bosomed figure / stunning photographs of Canada's wilderness areas	stunning		strikingly beautiful or attractive
+Synset('beautiful.a.01')	Synset('bonny.s.01')	my bonny lass / there's a bonny bay beyond / a comely face / young fair maidens	bonny, bonnie, comely, fair, sightly		very pleasing to the eye
+Synset('beautiful.a.01')	Synset('glorious.s.03')	a glorious spring morning / a glorious sunset / splendid costumes / a kind of splendiferous native simplicity	glorious, resplendent, splendid, splendiferous		having great beauty and splendor
+Synset('troubled.a.01')	Synset('troubled.a.01')	troubled areas / fell into a troubled sleep / a troubled expression / troubled teenagers	troubled	BEHAVIOR	characterized by or indicative of distress or affliction or danger or need
+Synset('troubled.a.01')	Synset('stressed.s.01')	he dropped out of the race, clearly distressed and having difficulty breathing	stressed, distressed		suffering severe physical strain or distress
+Synset('troubled.a.01')	Synset('distressed.s.01')	distressed companies need loans and technical advice / financially hard-pressed Mexican hotels are lowering their prices / we were hard put to meet the mortgage payment / found themselves in a bad way financially	distressed, hard-pressed, hard_put, in_a_bad_way		facing or experiencing financial trouble or difficulty
+Synset('troubled.a.01')	Synset('careful.s.04')	Thou art careful and troubled about many things"-Luke 10.41	careful		full of cares or anxiety
+Synset('troubled.a.01')	Synset('disquieted.s.01')	too upset to say anything / spent many disquieted moments / distressed about her son's leaving home / lapsed into disturbed sleep / worried parents / a worried frown / one last worried check of the sleeping children	disquieted, distressed, disturbed, upset, worried		afflicted with or marked by anxious uneasiness or trouble or grief
+Synset('troubled.a.01')	Synset('haunted.s.02')	her expression became progressively more haunted	haunted		showing emotional affliction or disquiet
+Synset('troubled.a.01')	Synset('troublous.s.01')	these are troublous times	troublous		full of trouble
+Synset('troubled.a.01')	Synset('buffeted.s.01')		buffeted, storm-tossed, tempest-tossed, tempest-tost, tempest-swept		pounded or hit repeatedly by storms or adversities
+Synset('troubled.a.01')	Synset('fraught.s.01')	a fraught mother-daughter relationship	fraught		marked by distress
+Synset('troubled.a.01')	Synset('care-laden.s.01')	all ye that labor and are heavy-laden"-Matt.11:28	care-laden, heavy-laden		burdened by cares
+Synset('troubled.a.01')	Synset('annoyed.s.02')	harassed working mothers / a harried expression / her poor pestered father had to endure her constant interruptions / the vexed parents of an unruly teenager	annoyed, harassed, harried, pestered, vexed		troubled persistently especially with petty annoyances
+Synset('troubled.a.01')	Synset('suffering.s.01')	suffering refugees	suffering		troubled by pain or loss
+Synset('troubled.a.01')	Synset('hag-ridden.s.01')	hagridden...by visions of an imminent heaven or hell upon earth"- C.S.Lewis	hag-ridden, hagridden, tormented		tormented or harassed by nightmares or unreasonable fears
+Synset('troubled.a.01')	Synset('struggling.s.01')	a financially struggling theater / struggling artists	struggling		engaged in a struggle to overcome especially poverty or obscurity
+Synset('troubled.a.01')	Synset('mothy.s.02')		mothy		infested with moths
+Synset('troubled.a.01')	Synset('anxious.s.02')	spent an anxious night waiting for the test results / cast anxious glances behind her / those nervous moments before takeoff / an unquiet mind	anxious, nervous, queasy, uneasy, unquiet		causing or fraught with or showing anxiety
+Synset('troubled.a.01')	Synset('clouded.s.01')	his face was clouded with unhappiness	clouded		made troubled or apprehensive or distressed in appearance
+Synset('joint.a.01')	Synset('joint.a.01')	a joint session of Congress / joint owners	joint	MISCELLANEOUS	united or combined
+Synset('joint.a.01')	Synset('corporate.s.03')	a joint identity / the collective mind / the corporate good	corporate, collective		done by or characteristic of individuals acting together
+Synset('joint.a.01')	Synset('cosignatory.s.01')		cosignatory		signing jointly with others
+Synset('joint.a.01')	Synset('clannish.s.01')	clannish loyalty	clannish		characteristic of a clan especially in being unified
+Synset('joint.a.01')	Synset('conjoined.s.01')	the interplay of these conjoined yet opposed factors / social order and prosperity, the conjoint aims of government"- J.K.Fairbank	conjoined, conjoint		consisting of two or more associated entities
+Synset('joint.a.01')	Synset('concerted.s.01')	concerted action / the conjunct influence of fire and strong wind / the conjunctive focus of political opposition / a cooperative effort / a united effort / joint military activities	concerted, conjunct, conjunctive, cooperative		involving the joint activity of two or more
+Synset('irresistible.a.01')	Synset('irresistible.a.01')	irresistible (or resistless) impulses / what happens when an irresistible force meets an immovable object?	irresistible, resistless	BEHAVIOR	impossible to resist; overpowering
+Synset('irresistible.a.01')	Synset('overpowering.s.01')	an overpowering need for solitude / the temptation to despair may become overwhelming / an overwhelming majority	overpowering, overwhelming		so strong as to be irresistible
+Synset('overt.a.01')	Synset('overt.a.01')	an overt lie / overt hostility / overt intelligence gathering / open ballots	overt, open	MISCELLANEOUS	open and observable; not secret or hidden
+Synset('overt.a.01')	Synset('visible.s.02')	a visible change of expression	visible		obvious to the eye
+Synset('overt.a.01')	Synset('naked.s.04')	naked ambition / raw fury / you may kill someone someday with your raw power	naked, raw		devoid of elaboration or diminution or concealment; bare and pure
+Synset('overt.a.01')	Synset('bald.s.01')	a barefaced lie	bald, barefaced		with no effort to conceal
+Synset('overt.a.01')	Synset('undisguised.s.01')	undisguised curiosity	undisguised		plain to see
+Synset('down.a.01')	Synset('down.a.01')	lay face down / the moon is down / our team is down by a run / down by a pawn / the stock market is down today	down	SPATIAL	being or moving lower in position or less in some value
+Synset('down.a.01')	Synset('downward.s.02')	he lay face downward / the downward pull of gravity	downward		on or toward a surface regarded as a base
+Synset('down.a.01')	Synset('downcast.s.01')	a downcast glance	downcast		directed downward
+Synset('down.a.01')	Synset('set.s.05')	the moon is set	set		being below the horizon
+Synset('down.a.01')	Synset('thrown.s.01')	the thrown rider got back on his horse / a thrown wrestler / a ball player thrown for a loss	thrown		caused to fall to the ground
+Synset('down.a.01')	Synset('downfield.s.01')	he threw to a downfield receiver	downfield		toward or in the defending team's end of the playing field
+Synset('down.a.01')	Synset('fallen.s.01')	fallen leaves covered the forest floor / sat on a fallen tree trunk	fallen		having dropped by the force of gravity
+Synset('down.a.01')	Synset('weak.s.05')	a weak market for oil stocks	weak		tending downward in price
+Synset('down.a.01')	Synset('behind.s.01')	behind by two points / the 8th inning found the home team trailing	behind		having the lower score or lagging position in a contest
+Synset('down.a.01')	Synset('downbound.s.01')	a downbound channel / the downbound train	downbound		heading in any direction that is conventionally down
+Synset('effortful.a.01')	Synset('effortful.a.01')		effortful	QUANTITY	requiring great physical effort
+Synset('effortful.a.01')	Synset('exhausting.s.02')	an exhausting march / the visit was especially wearing	exhausting, tiring, wearing, wearying		producing exhaustion
+Synset('effortful.a.01')	Synset('arduous.s.01')	worked their arduous way up the mining valley / a grueling campaign / hard labor / heavy work / heavy going / spent many laborious hours on the project / set a punishing pace	arduous, backbreaking, grueling, gruelling, hard, heavy, laborious, operose, punishing, toilsome		characterized by effort to the point of exhaustion; especially physical effort
+Synset('effortful.a.01')	Synset('arduous.s.02')	his final, straining burst of speed / a strenuous task / your willingness after these six arduous days to remain here"- F.D.Roosevelt	arduous, straining, strenuous		taxing to the utmost; testing powers of endurance
+Synset('effortful.a.01')	Synset('heavy.s.23')	heavy breathing / the subject made for labored reading	heavy, labored, laboured		requiring or showing effort
+Synset('effortful.a.01')	Synset('sisyphean.s.02')		Sisyphean		both extremely effortful and futile
+Synset('effortful.a.01')	Synset('labor-intensive.s.01')	cottage industries are labor intensive	labor-intensive, labour-intensive		requiring a large expenditure of labor but not much capital
+Synset('effortful.a.01')	Synset('dragging.s.01')	it was a strange dragging approach / years of dragging war	dragging		marked by a painfully slow and effortful manner
+Synset('effortful.a.01')	Synset('leaden.s.04')	leaden steps	leaden, plodding		(of movement) slow and laborious
+Synset('warm.a.01')	Synset('warm.a.01')	a warm body / a warm room / a warm climate / a warm coat	warm	PERCEPTION	having or producing a comfortable and agreeable degree of heat or imparting or maintaining heat
+Synset('warm.a.01')	Synset('warmed.s.01')	a cup of warmed milk	warmed		having been warmed up
+Synset('warm.a.01')	Synset('warming.s.01')	a warming fire	warming		imparting heat
+Synset('warm.a.01')	Synset('lukewarm.s.01')	he hates lukewarm coffee / tepid bath water	lukewarm, tepid		moderately warm
+Synset('respectable.a.01')	Synset('respectable.a.01')	a respectable woman	respectable	BEHAVIOR	characterized by socially or conventionally acceptable morals
+Synset('respectable.a.01')	Synset('presentable.s.01')	presentable clothes	presentable		fit to be seen
+Synset('respectable.a.01')	Synset('decent.s.01')	from a decent family / a nice girl	decent, nice		socially or conventionally correct; refined or virtuous
+Synset('respectable.a.01')	Synset('upstanding.s.01')	an upstanding member of the community	upstanding, solid		meriting respect or esteem
+Synset('unplowed.a.01')	Synset('unplowed.a.01')	unplowed fields / unbroken land	unplowed, unploughed, unbroken	SUBSTANCE	(of farmland) not plowed
+Synset('unplowed.a.01')	Synset('fallow.s.01')	fallow farmland	fallow		left unplowed and unseeded during a growing season
+Synset('unplowed.a.01')	Synset('untilled.s.01')	untilled land	untilled		not plowed or harrowed or hoed
+Synset('qualified.a.02')	Synset('qualified.a.02')	gave only qualified approval	qualified	MIND	limited or restricted; not absolute
+Synset('qualified.a.02')	Synset('conditional.s.01')		conditional		qualified by reservations
+Synset('qualified.a.02')	Synset('hedged.s.01')		hedged, weasel-worded		evasively worded in order to avoid an unqualified statement
+Synset('qualified.a.02')	Synset('limited.s.04')		limited, modified		mediocre
+Synset('constant.a.02')	Synset('constant.a.02')	a man constant in adherence to his ideals / a constant lover / constant as the northern star	constant	BEHAVIOR	steadfast in purpose or devotion or affection
+Synset('constant.a.02')	Synset('steadfast.s.02')	a steadfast ally / a staunch defender of free speech / unswerving devotion / unswerving allegiance	steadfast, staunch, unswerving		firm and dependable especially in loyalty
+Synset('constant.a.02')	Synset('unfailing.s.03')	unfailing loyalty / unfailing good spirits / unflagging courtesy	unfailing, unflagging		unceasing
+Synset('legal.a.01')	Synset('legal.a.01')		legal	MISCELLANEOUS	established by or founded upon law or official or accepted rules
+Synset('legal.a.01')	Synset('judicial.s.01')	a judicial decision	judicial		decreed by or proceeding from a court of justice
+Synset('legal.a.01')	Synset('court-ordered.s.01')		court-ordered		ordered by a court of law
+Synset('legal.a.01')	Synset('jural.s.01')		jural, juristic		of or relating to law or to legal rights and obligations
+Synset('legal.a.01')	Synset('sub_judice.s.01')		sub_judice		before a judge or court of law; awaiting judicial determination
+Synset('legal.a.01')	Synset('ratified.s.01')		ratified, sanctioned		formally approved and invested with legal authority
+Synset('legal.a.01')	Synset('lawful.s.04')	a legitimate government	lawful, legitimate, licit		authorized, sanctioned by, or in accordance with law
+Synset('legal.a.01')	Synset('statutory.s.02')	statutory restrictions / a statutory age limit / statutory crimes / statutory rape	statutory		prescribed or authorized by or punishable under a statute
+Synset('used.a.01')	Synset('used.a.01')	the principle of surprise is the most used and misused of all the principles of war"- H.H.Arnold & I.C.Eaker	used	MISCELLANEOUS	employed in accomplishing something
+Synset('used.a.01')	Synset('utilized.s.01')		utilized, utilised		put to use
+Synset('used.a.01')	Synset('in_use.s.02')	robots are in use throughout industry	in_use		currently being used
+Synset('democratic.a.01')	Synset('democratic.a.01')	democratic government / a democratic country / a democratic scorn for bloated dukes and lords"- George du Maurier	democratic	SOCIAL	characterized by or advocating or based upon the principles of democracy or social equality
+Synset('democratic.a.01')	Synset('parliamentary.s.02')	parliamentary government	parliamentary		having the supreme legislative power resting with a body of cabinet ministers chosen from and responsible to the legislature or parliament
+Synset('democratic.a.01')	Synset('participatory.s.01')	participatory democracy	participatory		affording the opportunity for individual participation
+Synset('democratic.a.01')	Synset('parliamentary.s.03')	parliamentary law	parliamentary		in accord with rules and customs of a legislative or deliberative assembly
+Synset('democratic.a.01')	Synset('popular.s.02')	the popular vote / popular representation / institutions of popular government	popular		carried on by or for the people (or citizens) at large
+Synset('democratic.a.01')	Synset('representative.s.03')	representative government as defined by Abraham Lincoln is government of the people, by the people, for the people	representative		being or characteristic of government by representation in which citizens exercise power through elected officers and representatives
+Synset('democratic.a.01')	Synset('classless.s.01')	a classless society	classless, egalitarian		favoring social equality
+Synset('democratic.a.01')	Synset('antiauthoritarian.s.01')		antiauthoritarian		opposed to authoritarianism
+Synset('democratic.a.01')	Synset('republican.s.02')	the United States shall guarantee to every state in this union a republican form of government"- United States Constitution / a very republican notion / so little republican and so much aristocratic sentiment"- Philip Marsh / our republican and artistic simplicity"-Nathaniel Hawthorne	republican		having the supreme power lying in the body of citizens entitled to vote for officers and representatives responsible to them or characteristic of such government
+Synset('joyous.a.01')	Synset('joyous.a.01')	felt a joyous abandon / joyous laughter	joyous	FEELING	full of or characterized by joy
+Synset('joyous.a.01')	Synset('elated.s.02')	a joyful heart	elated, gleeful, joyful, jubilant		full of high-spirited delight
+Synset('joyous.a.01')	Synset('ecstatic.s.01')		ecstatic, enraptured, rapturous, rapt, rhapsodic		feeling great rapture or delight
+Synset('joyous.a.01')	Synset('gay.s.02')	when hearts were young and gay / a poet could not but be gay, in such a jocund company"- Wordsworth / the jolly crowd at the reunion / jolly old Saint Nick / a jovial old gentleman / have a merry Christmas / peals of merry laughter / a mirthful laugh	gay, jocund, jolly, jovial, merry, mirthful		full of or showing high-spirited merriment
+Synset('joyous.a.01')	Synset('gay.s.05')	a festive (or festal) occasion / gay and exciting night life / a merry evening	gay, festal, festive, merry		offering fun and gaiety
+Synset('inhumane.a.01')	Synset('inhumane.a.01')	humans are innately inhumane / biological weapons are considered too inhumane to be used	inhumane	BEHAVIOR	lacking and reflecting lack of pity or compassion; this explains much of the misery and suffering in the world"
+Synset('inhumane.a.01')	Synset('beastly.s.02')	beastly desires / a bestial nature / brute force / a dull and brutish man / bestial treatment of prisoners	beastly, bestial, brute, brutish, brutal		resembling a beast; showing lack of human sensibility
+Synset('inhumane.a.01')	Synset('cold.s.09')	in cold blood / cold-blooded killing / insensate destruction	cold, cold-blooded, inhuman, insensate		without compunction or human feeling
+Synset('inhumane.a.01')	Synset('cannibalic.s.01')		cannibalic		marked by barbarity suggestive of a cannibal; rapaciously savage
+Synset('inhumane.a.01')	Synset('barbarous.s.01')	a barbarous crime / brutal beatings / cruel tortures / Stalin's roughshod treatment of the kulaks / a savage slap / vicious kicks	barbarous, brutal, cruel, fell, roughshod, savage, vicious		(of persons or their actions) able or disposed to inflict pain or suffering
+Synset('inhumane.a.01')	Synset('pitiless.s.02')		pitiless, unkind		deficient in humane and kindly feelings
+Synset('technical.a.03')	Synset('technical.a.03')	technical college / technological development	technical, technological	MISCELLANEOUS	of or relating to a practical subject that is organized according to scientific principles
+Synset('potential.a.01')	Synset('potential.a.01')	a potential problem / possible uses of nuclear power	potential, possible	QUANTITY	existing in possibility
+Synset('potential.a.01')	Synset('latent.s.01')	a latent fingerprint / latent talent	latent		potentially existing but not presently evident or realized
+Synset('planar.a.01')	Synset('planar.a.01')		planar, two-dimensional	SPATIAL	involving two dimensions
+Synset('planar.a.01')	Synset('tabular.s.02')		tabular		flat; like a table in form
+Synset('planar.a.01')	Synset('placoid.s.01')		placoid, platelike		as the hard flattened scales of e.g. sharks
+Synset('planar.a.01')	Synset('flat.s.02')	flat computer monitors	flat		having a relatively broad surface in relation to depth or thickness
+Synset('planar.a.01')	Synset('coplanar.s.01')		coplanar		lying in the same plane
+Synset('planar.a.01')	Synset('planate.s.01')		planate, flattened		having been flattened
+Synset('unconscious.a.01')	Synset('unconscious.a.01')	lay unconscious on the floor	unconscious	FEELING	not conscious; lacking awareness and the capacity for sensory perception as if asleep or dead
+Synset('unconscious.a.01')	Synset('insensible.s.04')	he lay insensible where he had fallen / drugged and senseless	insensible, senseless		unresponsive to stimulation
+Synset('unconscious.a.01')	Synset('nonconscious.s.01')	nonconscious psychic processes	nonconscious		concerning mental functioning that is not represented in consciousness
+Synset('unconscious.a.01')	Synset('cold.s.11')	the boxer was out cold / pass out cold	cold		unconscious from a blow or shock or intoxication
+Synset('unconscious.a.01')	Synset('semicomatose.s.01')		semicomatose		in a state of partial coma
+Synset('unconscious.a.01')	Synset('subconscious.s.01')		subconscious		just below the level of consciousness
+Synset('unconscious.a.01')	Synset('knocked_out.s.01')		knocked_out, kayoed, KO'd, out, stunned		knocked unconscious by a heavy blow
+Synset('unconscious.a.01')	Synset('innocent.s.07')	fine innocent weather	innocent		(used of things) lacking sense or awareness
+Synset('unconscious.a.01')	Synset('comatose.s.02')	a comatose patient	comatose		in a state of deep and usually prolonged unconsciousness; unable to respond to external stimuli
+Synset('standard.a.01')	Synset('standard.a.01')	windows of standard width / standard sizes / the standard fixtures / standard brands / standard operating procedure	standard	MISCELLANEOUS	conforming to or constituting a standard of measurement or value; or of the usual or regularized or accepted kind
+Synset('standard.a.01')	Synset('stock.s.02')	a stock answer	stock		routine
+Synset('standard.a.01')	Synset('regulation.s.01')	regulation army equipment	regulation		prescribed by or according to regulation
+Synset('standard.a.01')	Synset('regular.s.03')	following the regular procedure of the legislature / a regular electrical outlet	regular		conforming to a standard or pattern
+Synset('standard.a.01')	Synset('modular.s.01')	modular furniture / modular homes	modular		constructed with standardized units or dimensions allowing flexibility and variety in use
+Synset('standard.a.01')	Synset('standardized.s.01')	standardized education	standardized, standardised		brought into conformity with a standard
+Synset('accurate.a.01')	Synset('accurate.a.01')	an accurate reproduction / the accounting was accurate / accurate measurements / an accurate scale	accurate	MISCELLANEOUS	conforming exactly or almost exactly to fact or to a standard or performing with total accuracy
+Synset('accurate.a.01')	Synset('veracious.s.02')	a veracious account	veracious, right		precisely accurate
+Synset('accurate.a.01')	Synset('high-fidelity.s.01')	a high-fidelity recording / a hi-fi system	high-fidelity, hi-fi		characterized by minimal distortion in sound reproduction
+Synset('accurate.a.01')	Synset('straight.s.05')	set the record straight / made sure the facts were straight in the report	straight		in keeping with the facts
+Synset('accurate.a.01')	Synset('close.s.05')	a close translation / a faithful copy of the portrait / a faithful rendering of the observed facts	close, faithful		marked by fidelity to an original
+Synset('accurate.a.01')	Synset('true.s.02')	his aim was true / he was dead on target	true, dead_on_target		accurately placed or thrown
+Synset('accurate.a.01')	Synset('dead-on.s.01')	a dead-on feel for characterization / She avoids big scenes...preferring to rely on small gestures and dead-on dialogue"- Peter S.Prescott	dead-on		accurate and to the point
+Synset('accurate.a.01')	Synset('surgical.s.03')	a surgical air strike	surgical		performed with great precision
+Synset('uneven.a.01')	Synset('uneven.a.01')	an uneven color / uneven ground / uneven margins / wood with an uneven grain	uneven	PERCEPTION	not even or uniform as e.g. in shape or texture
+Synset('uneven.a.01')	Synset('jagged.s.01')	the jagged outline of the crags / scraggy cliffs	jagged, jaggy, scraggy		having a sharply uneven surface or outline
+Synset('uneven.a.01')	Synset('unparallel.s.01')		unparallel		not straight or parallel
+Synset('uneven.a.01')	Synset('pebble-grained.s.01')		pebble-grained		(of leather) having a rough surface as the result of being treated with a patterned roller
+Synset('uneven.a.01')	Synset('patchy.s.01')	a patchy essay / patchy fog	patchy		irregular or uneven in quality, texture, etc.
+Synset('uneven.a.01')	Synset('crinkled.s.01')		crinkled, crinkly, rippled, wavy, wavelike		uneven by virtue of having wrinkles or waves
+Synset('uneven.a.01')	Synset('ragged.s.03')	text set with ragged right margins / herded the class into a ragged line	ragged		having an irregular outline
+Synset('uneven.a.01')	Synset('lumpy.s.02')	lumpy gravy	lumpy		having lumps; not smooth and even in texture
+Synset('uneven.a.01')	Synset('curly-grained.s.01')		curly-grained, cross-grained, wavy-grained		of timber; having fibers running irregularly rather than in parallel
+Synset('uneven.a.01')	Synset('irregular.s.08')	walking was difficult on the irregular cobblestoned surface	irregular		(of a surface or shape); not level or flat or symmetrical
+Synset('uneven.a.01')	Synset('out_of_true.s.01')	the frame was out of true / off-level floors and untrue doors and windows	out_of_true, untrue		not accurately fitted; not level
+Synset('same.a.01')	Synset('same.a.01')	the same man I saw yesterday / never wore the same dress twice / this road is the same one we were on yesterday / on the same side of the street	same	MISCELLANEOUS	same in identity
+Synset('same.a.01')	Synset('aforesaid.s.01')	works of all the aforementioned authors / said party has denied the charges	aforesaid, aforementioned, said		being the one previously mentioned or spoken of
+Synset('same.a.01')	Synset('identical.s.02')	this is the identical room we stayed in before / the themes of his stories are one and the same / saw the selfsame quotation in two newspapers / on this very spot / the very thing he said yesterday / the very man I want to see	identical, selfsame, very		being the exact same one; not any other:
+Synset('unfamiliar.a.01')	Synset('unfamiliar.a.01')	a name unfamiliar to most / be alert at night especially in unfamiliar surroundings	unfamiliar	MISCELLANEOUS	not known or well known
+Synset('unfamiliar.a.01')	Synset('strange.s.02')	used many strange words / saw many strange faces in the crowd / don't let anyone unknown into the house	strange, unknown		not known before
+Synset('unfamiliar.a.01')	Synset('unacquainted.s.02')	unacquainted with city ways	unacquainted, unacquainted_with, unfamiliar_with		having little or no knowledge of
+Synset('impure.a.01')	Synset('impure.a.01')		impure	SUBSTANCE	combined with extraneous elements
+Synset('impure.a.01')	Synset('alloyed.s.01')		alloyed		(used of metals) debased by mixture with an inferior element
+Synset('impure.a.01')	Synset('adulterate.s.01')		adulterate, adulterated, debased		mixed with impurities
+Synset('impure.a.01')	Synset('dirty.s.06')	dirty" is often used in combination / a dirty (or dingy) white / the muddied grey of the sea / muddy colors / dirty-green walls / dirty-blonde hair	dirty, dingy, muddied, muddy		(of color) discolored by impurities; not bright and clear
+Synset('impure.a.01')	Synset('contaminated.s.02')	had to boil the contaminated water / polluted lakes and streams	contaminated, polluted		rendered unwholesome by contaminants and pollution
+Synset('impure.a.01')	Synset('bastardized.s.01')		bastardized, bastardised		deriving from more than one source or style
+Synset('impure.a.01')	Synset('unpurified.s.01')		unpurified		not made pure
+Synset('impure.a.01')	Synset('technical-grade.s.01')	technical-grade sulfuric acid	technical-grade, technical_grade		containing small amounts of other chemicals, hence slightly impure
+Synset('unloved.a.01')	Synset('unloved.a.01')		unloved	FEELING	not loved
+Synset('unloved.a.01')	Synset('bereft.s.01')		bereft, lovelorn, unbeloved		unhappy in love; suffering from unrequited love
+Synset('unloved.a.01')	Synset('disinherited.s.01')		disinherited		deprived of your rightful heritage
+Synset('unloved.a.01')	Synset('despised.s.01')		despised, detested, hated, scorned		treated with contempt
+Synset('unloved.a.01')	Synset('alienated.s.02')		alienated, estranged		caused to be unloved
+Synset('unloved.a.01')	Synset('loveless.s.02')	a loveless childhood	loveless		receiving no love
+Synset('unloved.a.01')	Synset('jilted.s.01')	jilted at the altar	jilted, rejected, spurned		rebuffed (by a lover) without warning
+Synset('light.a.02')	Synset('light.a.02')	light blue / light colors such as pastels / a light-colored powder	light, light-colored	PERCEPTION	(used of color) having a relatively small amount of coloring agent
+Synset('light.a.02')	Synset('pale.s.01')	pale seagreen / pale blue eyes	pale		very light colored; highly diluted with white
+Synset('light.a.02')	Synset('palish.s.01')		palish		slightly pale
+Synset('light.a.02')	Synset('powdery.s.02')	a powdery blue	powdery		as if dulled in color with a sprinkling of powder
+Synset('light.a.02')	Synset('pastel.s.02')	pastel pink	pastel		delicate and pale in color
+Synset('anonymous.a.01')	Synset('anonymous.a.01')	anonymous authors / anonymous donors / an anonymous gift	anonymous, anon.	MISCELLANEOUS	having no known name or identity or known source
+Synset('anonymous.a.01')	Synset('nameless.s.01')	a poem by an unknown author / corporations responsible to nameless owners / an unnamed donor	nameless, unidentified, unknown, unnamed		being or having an unknown or unnamed source
+Synset('immediate.a.03')	Synset('immediate.a.03')	an immediate influence	immediate	MISCELLANEOUS	having no intervening medium
+Synset('immediate.a.03')	Synset('direct.s.02')	in direct sunlight / in direct contact with the voters / direct exposure to the disease / a direct link / the direct cause of the accident / direct vote	direct, unmediated		having no intervening persons, agents, conditions
+Synset('limited.a.01')	Synset('limited.a.01')	limited war / a limited success / a limited circle of friends	limited	QUANTITY	small in range or scope
+Synset('limited.a.01')	Synset('minor.s.10')	a small business / a newspaper with a modest circulation / small-scale plans / a pocket-size country	minor, modest, small, small-scale, pocket-size, pocket-sized		limited in size or scope
+Synset('limited.a.01')	Synset('narrow.s.02')	the narrow sense of a word	narrow		limited in size or scope
+Synset('incontestable.a.01')	Synset('incontestable.a.01')		incontestable, incontestible	MISCELLANEOUS	incapable of being contested or disputed
+Synset('incontestable.a.01')	Synset('unassailable.s.03')	an ironclad contract / a watertight alibi / a bulletproof argument	unassailable, unshakable, watertight, bulletproof		without flaws or loopholes
+Synset('incontestable.a.01')	Synset('inarguable.s.01')		inarguable, unarguable		against which no argument can be made
+Synset('incontestable.a.01')	Synset('demonstrable.s.01')	demonstrable truths	demonstrable, incontrovertible		necessarily or demonstrably true
+Synset('incontestable.a.01')	Synset('demonstrated.s.01')		demonstrated		having been demonstrated or verified beyond doubt
+Synset('incontestable.a.01')	Synset('unanswerable.s.01')	an unanswerable argument	unanswerable		impossible to answer
+Synset('bad.a.01')	Synset('bad.a.01')	a bad report card / his sloppy appearance made a bad impression / a bad little boy / clothes in bad shape / a bad cut / bad luck / the news was very bad / the reviews were bad / the pay is bad / it was a bad light for reading / the movie was a bad choice	bad	BEHAVIOR	having undesirable or negative qualities
+Synset('bad.a.01')	Synset('severe.s.06')	a severe worldwide depression / the house suffered severe damage	severe		very bad in degree or extent
+Synset('bad.a.01')	Synset('naughty.s.02')	a naughty boy	naughty		badly behaved
+Synset('bad.a.01')	Synset('corked.s.01')	a corked port	corked, corky		(of wine) tainted in flavor by a cork containing excess tannin
+Synset('bad.a.01')	Synset('poor.s.06')	a poor light for reading / poor morale / expectations were poor	poor		unsatisfactory
+Synset('bad.a.01')	Synset('icky.s.01')	a lousy play / it's a stinking world	icky, crappy, lousy, rotten, shitty, stinking, stinky		very bad
+Synset('bad.a.01')	Synset('deplorable.s.01')	my finances were in a deplorable state / a lamentable decision / her clothes were in sad shape / a sorry state of affairs	deplorable, distressing, lamentable, pitiful, sad, sorry		bad; unfortunate
+Synset('bad.a.01')	Synset('rubber.s.01')	a rubber check / a no-good check	rubber, no-good		returned for lack of funds
+Synset('bad.a.01')	Synset('atrocious.s.02')	atrocious taste / abominable workmanship / an awful voice / dreadful manners / a painful performance / terrible handwriting / an unspeakable odor came sweeping into the room	atrocious, abominable, awful, dreadful, painful, terrible, unspeakable		exceptionally bad or displeasing
+Synset('bad.a.01')	Synset('horrid.s.01')	when she was bad she was horrid	horrid		exceedingly bad
+Synset('bad.a.01')	Synset('swingeing.s.01')	swingeing taxation / swingeing damages awarded by the judge	swingeing		severe; punishingly bad
+Synset('bad.a.01')	Synset('incompetent.s.04')	incompetent at chess	incompetent, unskilled		not doing a good job
+Synset('bad.a.01')	Synset('unfavorable.s.03')	made an unfavorable impression / unfavorable reviews	unfavorable, unfavourable		not favorable
+Synset('bad.a.01')	Synset('hard.s.11')	had hard luck / a tough break	hard, tough		unfortunate or hard to bear
+Synset('bad.a.01')	Synset('fearful.s.04')	fearful slum conditions / a frightful mistake	fearful, frightful		extremely distressing
+Synset('bad.a.01')	Synset('hopeless.s.04')	she handed me a hopeless jumble of papers / he is a hopeless romantic	hopeless		(informal to emphasize how bad it is) beyond hope of management or reform
+Synset('bad.a.01')	Synset('ill.s.03')	ill manners / of ill repute	ill		distressing
+Synset('bad.a.01')	Synset('unsuitable.s.03')	the movie is unsuitable for children	unsuitable		not conducive to good moral development
+Synset('bad.a.01')	Synset('uncool.s.01')		uncool		(spoken slang) unfashionable and boring
+Synset('bad.a.01')	Synset('pretty.s.02')	a pretty mess / a pretty kettle of fish	pretty		(used ironically) unexpectedly bad
+Synset('bad.a.01')	Synset('mediocre.s.03')	there have been good and mediocre and bad artists	mediocre		poor to middling in quality
+Synset('bad.a.01')	Synset('negative.s.03')	ran a negative campaign / delinquents retarded by their negative outlook on life	negative		having the quality of something harmful or unpleasant
+Synset('cowardly.a.01')	Synset('cowardly.a.01')	cowardly dogs, ye will not aid me then"- P.B.Shelley	cowardly, fearful	MIND	lacking courage; ignobly timid and faint-hearted
+Synset('cowardly.a.01')	Synset('dastard.s.01')	the unprovoked and dastardly attack by Japan on...December 7th"- F.D. Roosevelt	dastard, dastardly		despicably cowardly
+Synset('cowardly.a.01')	Synset('funky.s.04')		funky		in a state of cowardly fright
+Synset('cowardly.a.01')	Synset('pusillanimous.s.01')		pusillanimous, poor-spirited, unmanly		lacking in courage and manly strength and resolution; contemptibly fearful
+Synset('cowardly.a.01')	Synset('craven.s.01')	the craven fellow turned and ran / a craven proposal to raise the white flag / this recreant knight"- Spenser	craven, recreant		lacking even the rudiments of courage; abjectly fearful
+Synset('cowardly.a.01')	Synset('faint.s.06')	faint heart ne'er won fair lady	faint, fainthearted, timid, faint-hearted		lacking conviction or boldness or courage
+Synset('cowardly.a.01')	Synset('caitiff.s.01')		caitiff		despicably mean and cowardly
+Synset('cowardly.a.01')	Synset('poltroon.s.01')		poltroon		characterized by complete cowardliness
+Synset('cowardly.a.01')	Synset('chicken.s.01')		chicken, chickenhearted, lily-livered, white-livered, yellow, yellow-bellied		easily frightened
+Synset('multidimensional.a.01')	Synset('multidimensional.a.01')	multidimensional problems / a multidimensional proposition / a multidimensional personality	multidimensional	SPATIAL	having or involving or marked by several dimensions or aspects
+Synset('multidimensional.a.01')	Synset('dimensional.s.02')	never matures as a dimensional character	dimensional		having dimension--the quality or character or stature proper to a person; he is pasty, bland, faceless"- Norman Cousins
+Synset('multidimensional.a.01')	Synset('three-dimensional.s.01')	lifelike three-dimensional characters / a three-dimensional account of conditions under the new government / they shot the movie in three-D	three-dimensional, 3-dimensional, third-dimensional, three-d		involving or relating to three dimensions or aspects; giving the illusion of depth
+Synset('multidimensional.a.01')	Synset('four-dimensional.s.01')		four-dimensional, 4-dimensional		involving or relating to the fourth dimension or time
+Synset('multidimensional.a.01')	Synset('two-dimensional.s.02')	a film with two-dimensional characters / a flat two-dimensional painting	two-dimensional, 2-dimensional, flat		lacking the expected range or depth; not designed to give an illusion or depth
+Synset('subsequent.a.01')	Synset('subsequent.a.01')	subsequent developments	subsequent	TEMPORAL	following in time or order
+Synset('subsequent.a.01')	Synset('later.s.01')	without ulterior argument / the mood posterior to	later, ulterior, posterior		coming at a subsequent time or stage
+Synset('subsequent.a.01')	Synset('attendant.s.02')	an excessive growth of bureaucracy, with attendant problems / snags incidental to the changeover in management / attendant circumstances / the period of tension and consequent need for military preparedness / the ensuant response to his appeal / the resultant savings were considerable	attendant, consequent, accompanying, concomitant, incidental, ensuant, resultant, sequent		following or accompanying as a consequence
+Synset('inferior.a.02')	Synset('inferior.a.02')		inferior	QUANTITY	of low or inferior quality
+Synset('inferior.a.02')	Synset('coarsened.s.01')		coarsened		made coarse or crude by lack of skill
+Synset('inferior.a.02')	Synset('low-grade.s.01')		low-grade		of inferior quality
+Synset('inferior.a.02')	Synset('ropey.s.03')	ropey food / a ropey performance	ropey, ropy		(British informal) very poor in quality
+Synset('inferior.a.02')	Synset('cheapjack.s.01')	cheapjack moviemaking...that feeds on the low taste of the mob"- Judith Crist	cheapjack, shoddy, tawdry		cheap and shoddy
+Synset('inferior.a.02')	Synset('third-rate.s.01')		third-rate		of lesser quality than second-rate
+Synset('inferior.a.02')	Synset('bum.s.01')		bum, cheap, cheesy, chintzy, crummy, punk, sleazy, tinny		of very poor quality; flimsy
+Synset('inferior.a.02')	Synset('utility.s.01')		utility, utility-grade		used of beef; usable but inferior
+Synset('inferior.a.02')	Synset('scrawny.s.02')	scrawny cattle / scrubby cut-over pine / old stunted thorn trees	scrawny, scrubby, stunted		inferior in size or quality
+Synset('inferior.a.02')	Synset('mediocre.s.01')	they improved the quality from mediocre to above average	mediocre, second-rate		moderate to inferior in quality
+Synset('inferior.a.02')	Synset('bad.s.07')	a bad chess player / a bad recital	bad		below average in quality or performance
+Synset('inferior.a.02')	Synset('less.s.02')	no less than perfect	less		(usually preceded by `no') lower in quality
+Synset('inferior.a.02')	Synset('deplorable.s.02')	deplorable housing conditions in the inner city / woeful treatment of the accused / woeful errors of judgment	deplorable, execrable, miserable, woeful, wretched		of very poor quality or condition
+Synset('inferior.a.02')	Synset('commercial.s.03')	commercial grade of beef / commercial oxalic acid	commercial, commercial-grade		of the kind or quality used in commerce; average or inferior
+Synset('inferior.a.02')	Synset('base.s.03')	base coins of aluminum / a base metal	base		(used of metals) consisting of or alloyed with inferior metal
+Synset('inferior.a.02')	Synset('second-class.s.01')	a second-class citizen / second-class accommodations	second-class		of inferior status or quality
+Synset('inferior.a.02')	Synset('coarse.s.03')	of what coarse metal ye are molded"- Shakespeare / produced...the common cloths used by the poorer population	coarse, common		of low or inferior quality or value
+Synset('inferior.a.02')	Synset('bush-league.s.01')		bush-league, bush		not of the highest quality or sophistication
+Synset('united.a.01')	Synset('united.a.01')	presented a united front	united	MISCELLANEOUS	characterized by unity; being or joined into a single entity
+Synset('united.a.01')	Synset('unsegmented.s.01')	unsegmented worms	unsegmented, nonsegmental		having a body that is not divided into segments
+Synset('united.a.01')	Synset('conjugate.s.01')		conjugate, conjugated, coupled		joined together especially in a pair or pairs
+Synset('united.a.01')	Synset('incorporate.s.01')		incorporate, incorporated, integrated, merged, unified		formed or united into a whole
+Synset('united.a.01')	Synset('undivided.s.01')	presented an undivided front	undivided		not parted by conflict of opinion
+Synset('united.a.01')	Synset('in_league.s.01')	they found out that some policemen were in league with the criminals	in_league		(usually followed by `with') united in effort as if in a league
+Synset('united.a.01')	Synset('one.s.02')	a unitary action / spoke with one voice	one, unitary		having the indivisible character of a unit
+Synset('united.a.01')	Synset('agreed.s.01')	agreed in their distrust of authority	agreed, in_agreement		united by being of the same opinion
+Synset('united.a.01')	Synset('tied.s.02')	people tied by blood or marriage	tied		bound together by or as if by a strong rope; especially as by a bond of affection
+Synset('united.a.01')	Synset('federate.s.01')		federate, federated		united under a central government
+Synset('united.a.01')	Synset('coalescent.s.01')	coalescent tradititions / coalescent bones	coalescent, coalescing		growing together, fusing
+Synset('united.a.01')	Synset('allied.s.04')		allied, confederate, confederative		united in a confederacy or league
+Synset('united.a.01')	Synset('conjunct.s.02')	conjunct influences / conjunct ideas	conjunct		bound in close association
+Synset('united.a.01')	Synset('suprasegmental.s.01')		suprasegmental		pertaining to a feature of speech that extends over more than a single speech sound
+Synset('united.a.01')	Synset('unpartitioned.s.01')		unpartitioned		not divided by partitions
+Synset('united.a.01')	Synset('amalgamate.s.01')	United Industries / the amalgamated colleges constituted a university / a consolidated school	amalgamate, amalgamated, coalesced, consolidated, fused		joined together into a whole
+Synset('united.a.01')	Synset('cohesive.s.02')	a cohesive organization	cohesive		cohering or tending to cohere; well integrated
+Synset('long.a.02')	Synset('long.a.02')	a long road / a long distance / contained many long words / ten miles long	long	QUANTITY	primarily spatial sense; of relatively great or greater than average spatial extension or extension as specified
+Synset('long.a.02')	Synset('long-handled.s.01')		long-handled, pole-handled		having a long handle
+Synset('long.a.02')	Synset('polysyllabic.s.02')	sesquipedalian technical terms	polysyllabic, sesquipedalian		(of words) long and ponderous; having many syllables
+Synset('long.a.02')	Synset('long-snouted.s.01')		long-snouted		having a snout that is longer than average
+Synset('long.a.02')	Synset('long-staple.s.01')	long-staple cotton	long-staple		having relatively long fibers
+Synset('long.a.02')	Synset('long-range.s.02')	long-range nuclear capability	long-range		suitable for or reaching long distances
+Synset('long.a.02')	Synset('lank.s.01')	grown lank with fasting / lank mousy hair	lank		long and thin and often limp
+Synset('long.a.02')	Synset('oblong.s.02')		oblong		deviating from a square or circle or sphere by being elongated in one direction
+Synset('long.a.02')	Synset('long-wool.s.01')		long-wool, long-wooled		(of sheep) having relatively long wool
+Synset('long.a.02')	Synset('elongated.s.01')	Picasso's elongated Don Quixote / lengthened skirts are fashionable this year / the extended airport runways can accommodate larger planes / a prolonged black line across the page	elongated, extended, lengthened, prolonged		drawn out or made longer spatially
+Synset('long.a.02')	Synset('stretch.s.01')	a stretch limousine	stretch		having an elongated seating area
+Synset('long.a.02')	Synset('far.s.02')	a far trek	far		being of a considerable distance or length
+Synset('long.a.02')	Synset('extendible.s.01')		extendible, extendable		capable of being lengthened
+Synset('long.a.02')	Synset('elongate.s.02')	an elongate tail tapering to a point / the old man's gaunt and elongated frame	elongate, elongated		having notably more length than width; being long and slender
+Synset('preserved.a.02')	Synset('preserved.a.02')		preserved	SUBSTANCE	kept intact or in a particular condition
+Synset('preserved.a.02')	Synset('retained.s.01')	in...the retained pattern of dancers and guests remembered	retained, maintained		continued in your keeping or use or memory
+Synset('preserved.a.02')	Synset('kept_up.s.01')		kept_up, maintained, well-kept		kept in good condition
+Synset('preserved.a.02')	Synset('conserved.s.01')		conserved		protected from harm or loss
+Synset('preserved.a.02')	Synset('preservable.s.01')		preservable		capable of being preserved
+Synset('preserved.a.02')	Synset('protected.s.02')		protected, saved		guarded from injury or destruction
+Synset('treated.a.02')	Synset('treated.a.02')	a treated cold is usually gone in 14 days	treated	MISCELLANEOUS	given medical care or treatment; if left untreated it lasts two weeks"
+Synset('treated.a.02')	Synset('bandaged.s.01')	the bandaged wound on the back of his head / an injury bound in fresh gauze	bandaged, bound		covered or wrapped with a bandage
+Synset('treated.a.02')	Synset('dressed.s.02')		dressed		treated with medications and protective covering
+Synset('treated.a.02')	Synset('dosed.s.01')	a mustache dosed with bear grease	dosed		treated with some kind of application
+Synset('traditional.a.01')	Synset('traditional.a.01')	traditional history / traditional morality	traditional	SOCIAL	consisting of or derived from tradition
+Synset('traditional.a.01')	Synset('conventional.s.06')	a conventional church wedding with the bride in traditional white / the conventional handshake	conventional		in accord with or being a tradition or practice accepted from the past
+Synset('traditional.a.01')	Synset('traditionalistic.s.01')		traditionalistic		adhering to tradition especially in cultural or religious practices
+Synset('traditional.a.01')	Synset('handed-down.s.01')	among Biblical critics a tralatitious interpretation is one received by expositor from expositor	handed-down, tralatitious		having been passed along from generation to generation
+Synset('harmonious.a.01')	Synset('harmonious.a.01')		harmonious	BEHAVIOR	musically pleasing
+Synset('harmonious.a.01')	Synset('symphonic.s.02')	the symphonic hum of a million insects	symphonic, symphonious		harmonious in sound
+Synset('harmonious.a.01')	Synset('consonant.s.01')		consonant, harmonic, harmonical, harmonized, harmonised		involving or characterized by harmony
+Synset('harmonious.a.01')	Synset('harmonic.s.04')	sympathetic vibration	harmonic, sympathetic		relating to vibrations that occur as a result of vibrations in a nearby body
+Synset('harmonious.a.01')	Synset('on-key.s.01')	a true note	on-key, true		in tune; accurate in pitch
+Synset('harmonious.a.01')	Synset('pure.s.04')		pure		free from discordant qualities
+Synset('adorned.a.01')	Synset('adorned.a.01')		adorned, decorated	MISCELLANEOUS	provided with something intended to increase its beauty or distinction
+Synset('adorned.a.01')	Synset('inwrought.s.01')	an inwrought design	inwrought		having a decorative pattern worked or woven in
+Synset('adorned.a.01')	Synset('tufted.s.02')	a tufted bedspread	tufted		having or adorned with tufts
+Synset('adorned.a.01')	Synset('paneled.s.01')		paneled, wainscoted		fitted or decorated with panels or wainscoting
+Synset('adorned.a.01')	Synset('buttony.s.02')		buttony		ornamented with many buttons
+Synset('adorned.a.01')	Synset('bedaubed.s.01')		bedaubed		ornamented in a vulgar or showy fashion
+Synset('adorned.a.01')	Synset('fringed.s.02')		fringed		having a decorative edging of hanging cords or strips
+Synset('adorned.a.01')	Synset('crocketed.s.01')	a crocketed spire	crocketed		(of a gable or spire) furnished with a crocket (an ornament in the form of curved or bent foliage)
+Synset('adorned.a.01')	Synset('tasseled.s.01')		tasseled, tasselled		fringed or adorned with tassels
+Synset('adorned.a.01')	Synset('tricked-out.s.01')	tricked-out cupboards looking like Georgian cabinets	tricked-out		decorated in a particular way
+Synset('adorned.a.01')	Synset('beady.s.02')		beady, gemmed, jeweled, jewelled, sequined, spangled, spangly		covered with beads or jewels or sequins
+Synset('adorned.a.01')	Synset('crested.s.03')		crested, plumed		(of a knight's helmet) having a decorative plume
+Synset('adorned.a.01')	Synset('carbuncled.s.02')		carbuncled		set with carbuncles
+Synset('adorned.a.01')	Synset('gilt-edged.s.02')		gilt-edged		having gilded edges as the pages of a book
+Synset('adorned.a.01')	Synset('crested.s.02')	golden crested / crested iris / crested oriole / tufted duck / tufted loosestrife	crested, topknotted, tufted		(of a bird or animal) having a usually ornamental tuft or process on the head; often used in combination
+Synset('adorned.a.01')	Synset('brocaded.s.01')	brocaded silk / an embossed satin / embossed leather / raised needlework / raised metalwork	brocaded, embossed, raised		embellished with a raised pattern created by pressure or embroidery
+Synset('adorned.a.01')	Synset('inlaid.s.01')		inlaid		adorned by inlays
+Synset('adorned.a.01')	Synset('studded.s.01')	star-studded heavens / diamond-studded belt	studded		dotted or adorned with or as with studs or nailheads; usually used in combination
+Synset('adorned.a.01')	Synset('clinquant.s.01')		clinquant, tinseled, tinselly		glittering with gold or silver
+Synset('adorned.a.01')	Synset('tessellated.s.02')	a tessellated pavement	tessellated		decorated with small pieces of colored glass or stone fitted together in a mosaic
+Synset('adorned.a.01')	Synset('mounted.s.02')	the trim brass-mounted carbine of the ranger"- F.V.W.Mason	mounted		decorated with applied ornamentation; often used in combination
+Synset('adorned.a.01')	Synset('crested.s.01')		crested		bearing an heraldic device
+Synset('adorned.a.01')	Synset('feathery.s.03')		feathery, feathered, plumy		adorned with feathers or plumes
+Synset('adorned.a.01')	Synset('bespectacled.s.01')	a bespectacled grandmother / the monocled gentleman	bespectacled, monocled, spectacled		wearing, or having the face adorned with, eyeglasses or an eyeglass
+Synset('adorned.a.01')	Synset('inflamed.s.03')		inflamed		adorned with tongues of flame
+Synset('adorned.a.01')	Synset('tapestried.s.01')		tapestried		hung or decorated with tapestry
+Synset('adorned.a.01')	Synset('champleve.s.01')		champleve, cloisonne		(for metals) having areas separated by metal and filled with colored enamel and fired
+Synset('adorned.a.01')	Synset('frilled.s.01')		frilled, frilly, ruffled		having decorative ruffles or frills
+Synset('human.a.03')	Synset('human.a.03')	human beings / the human body / human kindness / human frailty	human	MISCELLANEOUS	having human form or attributes as opposed to those of animals or divine beings
+Synset('human.a.03')	Synset('anthropomorphic.s.01')		anthropomorphic, anthropomorphous, humanlike		suggesting human characteristics for animals or inanimate things
+Synset('human.a.03')	Synset('anthropoid.s.02')		anthropoid, manlike		resembling human beings
+Synset('human.a.03')	Synset('earthborn.s.02')	earthborn beings	earthborn		springing from or born on the earth
+Synset('human.a.03')	Synset('hominine.s.01')		hominine		characteristic of humankind
+Synset('human.a.03')	Synset('fallible.s.02')	I'm only a fallible human / frail humanity	fallible, frail, imperfect, weak		wanting in moral strength, courage, or will; having the attributes of man as opposed to e.g. divine beings
+Synset('human.a.03')	Synset('hominian.s.01')		hominian, hominid		characterizing the family Hominidae, which includes Homo sapiens as well as extinct species of manlike creatures
+Synset('human.a.03')	Synset('hominal.s.01')	the hominal kingdom	hominal		of humankind as a species
+Synset('displeasing.a.01')	Synset('displeasing.a.01')		displeasing	FEELING	causing displeasure or lacking pleasing qualities
+Synset('displeasing.a.01')	Synset('off-putting.s.01')	an off-putting remark	off-putting		causing annoyance or repugnance
+Synset('displeasing.a.01')	Synset('disconcerting.s.01')	his disconcerting habit of greeting friends ferociously and strangers charmingly"- Herb Caen / an upsetting experience	disconcerting, upsetting		causing an emotional disturbance
+Synset('displeasing.a.01')	Synset('exasperating.s.01')	his cavelier curtness of manner was exasperating / I've had an exasperating day / her infuriating indifference / the ceaseless tumult of the jukebox was maddening	exasperating, infuriating, maddening, vexing		extremely annoying or displeasing
+Synset('surface.a.01')	Synset('surface.a.01')	surface materials of the moon	surface	SPATIAL	on the surface
+Synset('surface.a.01')	Synset('aboveground.s.01')	aboveground nuclear testing / surface instruments for detecting oil deposits / surface transportation	aboveground		on or above the surface of the ground
+Synset('surface.a.01')	Synset('grade-constructed.s.01')	grade-constructed accesses to the freeway	grade-constructed		constructed at ground level
+Synset('surface.a.01')	Synset('opencast.s.01')	opencast mining / an opencut iron mine	opencast, opencut		(of mines and mining) worked from the exposed surface
+Synset('low.a.02')	Synset('low.a.02')	low ceilings / low clouds / low hills / the sun is low / low furniture / a low bow	low	SPATIAL	literal meanings; being at or having a relatively small elevation or upward extension
+Synset('low.a.02')	Synset('low-growing.s.01')		low-growing, flat-growing, ground-hugging		of plants that grow relatively low to the ground
+Synset('low.a.02')	Synset('nether.s.03')	nether garments / the under parts of a machine	nether, under		located below or beneath something else
+Synset('low.a.02')	Synset('low-lying.s.01')	low-lying clouds	low-lying		having a small elevation above the ground or horizon or sea level
+Synset('low.a.02')	Synset('squat.s.02')		squat, underslung		having a low center of gravity; built low to the ground
+Synset('low.a.02')	Synset('lowset.s.01')	lowset ears / a stocky low-set animal	lowset, low-set		lower than average
+Synset('low.a.02')	Synset('deep.s.12')	a deep bow	deep		with head or back bent low
+Synset('low.a.02')	Synset('low-level.s.04')	a low-level strafing run	low-level, low-altitude		occurring at a relatively low altitude
+Synset('written.a.01')	Synset('written.a.01')	written evidence	written	MISCELLANEOUS	set down in writing in any of various ways
+Synset('written.a.01')	Synset('engrossed.s.02')		engrossed		written formally in a large clear script, as a deed or other legal document
+Synset('written.a.01')	Synset('longhand.s.01')	longhand writing	longhand		having words written out in full by hand
+Synset('written.a.01')	Synset('inscribed.s.01')		inscribed		written (by handwriting, printing, engraving, or carving) on or in a surface
+Synset('written.a.01')	Synset('shorthand.s.01')	shorthand notes	shorthand		written in abbreviated or symbolic form
+Synset('written.a.01')	Synset('cursive.s.01')	cursive script	cursive		having successive letter joined together
+Synset('written.a.01')	Synset('handwritten.s.01')		handwritten		written by hand
+Synset('written.a.01')	Synset('scrivened.s.01')		scrivened		copied in handwriting
+Synset('written.a.01')	Synset('graphic.s.01')	graphic symbols	graphic, graphical, in_writing		written or drawn or engraved
+Synset('written.a.01')	Synset('holographic.s.03')	a holographic will	holographic		written wholly in the handwriting of the signer
+Synset('written.a.01')	Synset('backhand.s.02')		backhand, left-slanting		(of handwriting) having the letters slanting backward
+Synset('necessary.a.01')	Synset('necessary.a.01')		necessary	QUANTITY	absolutely essential
+Synset('necessary.a.01')	Synset('incumbent.s.02')	it is incumbent on them to pay their own debts	incumbent		necessary (for someone) as a duty or responsibility; morally binding
+Synset('necessary.a.01')	Synset('obligatory.s.02')	he made all the obligatory apologies	obligatory		required by obligation or compulsion or convention
+Synset('necessary.a.01')	Synset('essential.s.01')	essential tools and materials / funds essential to the completion of the project / an indispensable worker	essential, indispensable		absolutely necessary; vitally necessary
+Synset('necessary.a.01')	Synset('needed.s.01')	provided them with all things needful	needed, needful, required, requisite		necessary for relief or supply
+Synset('fine.a.05')	Synset('fine.a.05')	wood with a fine grain / fine powdery snow / fine rain / batiste is a cotton fabric with a fine weave / covered with a fine film of dust	fine	SUBSTANCE	of textures that are smooth to the touch or substances consisting of relatively small particles
+Synset('fine.a.05')	Synset('powdered.s.01')	powdered cellulose / powdery snow / pulverized sugar is prepared from granulated sugar by grinding	powdered, powdery, pulverized, pulverised, small-grained, fine-grained		consisting of fine particles
+Synset('fine.a.05')	Synset('superfine.s.01')	superfine sugar / a superfine file	superfine		of extremely fine size or texture
+Synset('fine.a.05')	Synset('nongranular.s.01')	clear nongranular cytoplasm	nongranular		not having granules
+Synset('fine.a.05')	Synset('dustlike.s.01')		dustlike		as fine and powdery as dust
+Synset('fine.a.05')	Synset('close-grained.s.01')	close-grained birch / fine-grained rock	close-grained, fine-grained		dense or compact in structure or texture, as a wood composed of small-diameter cells
+Synset('fine.a.05')	Synset('small.s.08')	a small misty rain	small		have fine or very small constituent particles
+Synset('fine.a.05')	Synset('close.s.09')	a close weave / smooth percale with a very tight weave	close, tight		of textiles
+Synset('fine.a.05')	Synset('floury.s.01')	a floury clay	floury		resembling flour in fine powdery texture
+Synset('worthless.a.01')	Synset('worthless.a.01')	a worthless idler	worthless	QUANTITY	lacking in usefulness or value
+Synset('worthless.a.01')	Synset('manky.s.01')		manky		inferior and worthless
+Synset('worthless.a.01')	Synset('valueless.s.01')		valueless		of no value
+Synset('worthless.a.01')	Synset('negligible.s.02')	he considered the prize too paltry for the lives it must cost / piffling efforts / a trifling matter	negligible, paltry, trifling		not worth considering
+Synset('worthless.a.01')	Synset('good-for-nothing.s.01')	a sorry horse / a sorry excuse / a lazy no-count, good-for-nothing goldbrick / the car was a no-good piece of junk	good-for-nothing, good-for-naught, meritless, no-account, no-count, no-good, sorry		without merit
+Synset('worthless.a.01')	Synset('nugatory.s.01')	a nugatory law	nugatory		of no real value
+Synset('worthless.a.01')	Synset('chaffy.s.02')	an empty chaffy book by a foolish chaffy fellow	chaffy		value
+Synset('worthless.a.01')	Synset('otiose.s.01')	otiose lines in a play / advice is wasted words / a pointless remark / a life essentially purposeless / senseless violence	otiose, pointless, purposeless, senseless, superfluous, wasted		serving no useful purpose; having no excuse for being
+Synset('worthless.a.01')	Synset('rubbishy.s.01')	rubbishy newspapers that form almost the sole reading of the majority / trashy merchandise	rubbishy, trashy		cheap and inferior; of no value
+Synset('worthless.a.01')	Synset('tinpot.s.01')	he's a tinpot Hitler	tinpot		inferior (especially of a country's leadership)
+Synset('sporadic.a.01')	Synset('sporadic.a.01')	a city subjected to sporadic bombing raids	sporadic	TEMPORAL	recurring in scattered and irregular or unpredictable instances
+Synset('sporadic.a.01')	Synset('irregular.s.02')		irregular, unpredictable		not occurring at expected times
+Synset('sporadic.a.01')	Synset('isolated.s.01')	isolated instances of rebellion / a few stray crumbs	isolated, stray		not close together in time
+Synset('sporadic.a.01')	Synset('fitful.s.01')	fitful bursts of energy / spasmodic rifle fire	fitful, spasmodic		occurring in spells and often abruptly
+Synset('sporadic.a.01')	Synset('periodic.s.02')	periodic feelings of anxiety	periodic, occasional		recurring or reappearing from time to time
+Synset('sporadic.a.01')	Synset('intermittent.s.01')	intermittent rain showers	intermittent		stopping and starting at irregular intervals
+Synset('related.a.01')	Synset('related.a.01')	painting and the related arts / school-related activities / related to micelle formation is the...ability of detergent actives to congregate at oil-water interfaces	related, related_to	MISCELLANEOUS	being connected either logically or causally or by shared characteristics
+Synset('related.a.01')	Synset('affiliated.s.01')	affiliated clubs / all art schools whether independent or attached to universities	affiliated, attached, connected		being joined in close association
+Synset('related.a.01')	Synset('age-related.s.01')		age-related		changing (increasing or decreasing) as an individual's age increases
+Synset('related.a.01')	Synset('corresponding.s.01')	all rights carry with them corresponding responsibilities	corresponding		accompanying
+Synset('related.a.01')	Synset('side_by_side.s.02')	a city in which communism and democracy had to live side by side	side_by_side		closely related or associated
+Synset('related.a.01')	Synset('connate.s.02')	connate qualities	connate, cognate		related in nature
+Synset('related.a.01')	Synset('bound_up.s.01')	his career is bound up with the fortunes of the enterprise	bound_up		closely or inseparably connected or associated with
+Synset('related.a.01')	Synset('cognate.s.02')	cognate languages	cognate		having the same ancestral language
+Synset('related.a.01')	Synset('coreferent.s.01')	two expressions are coreferent if they denote the same object or individual	coreferent		related by sharing a symbolic link to a concrete object or an abstraction
+Synset('related.a.01')	Synset('correlative.s.01')		correlative, correlate, correlated		mutually related
+Synset('junior.a.01')	Synset('junior.a.01')		junior	TEMPORAL	younger; lower in rank; shorter in length of tenure or service
+Synset('junior.a.01')	Synset('younger.s.01')	John Junior / John Smith, Jr.	younger, jr.		used of the younger of two persons of the same name especially used to distinguish a son from his father
+Synset('junior.a.01')	Synset('junior-grade.s.01')	the junior faculty / a lowly corporal / petty officialdom / a subordinate functionary	junior-grade, lower-ranking, lowly, petty, secondary, subaltern		inferior in rank or status
+Synset('junior.a.01')	Synset('minor.s.08')	Jones minor	minor		of the younger of two boys with the same family name
+Synset('trained.a.01')	Synset('trained.a.01')	a trained mind / trained pigeons / well-trained servants	trained	BEHAVIOR	shaped or conditioned or disciplined by training; often used as a combining form
+Synset('trained.a.01')	Synset('drilled.s.01')	well-drilled in military procedures	drilled		trained in a skill by repetitious practice
+Synset('trained.a.01')	Synset('potty-trained.s.01')		potty-trained, pot-trained, toilet-trained		(of children) trained to use the toilet
+Synset('trained.a.01')	Synset('housebroken.s.01')	housebroken pets / `house-trained' is chiefly British	housebroken, house-trained		(of pets) trained to urinate and defecate outside or in a special place
+Synset('trained.a.01')	Synset('disciplined.s.02')	the beautiful coordination of his disciplined muscles / a disciplined mind	disciplined		trained mentally or physically by instruction or exercise
+Synset('up.a.01')	Synset('up.a.01')	the anchor is up / the sun is up / he lay face up / he is up by a pawn / the market is up / the corn is up	up	SPATIAL	being or moving higher in position or greater in some value; being above a former position or level
+Synset('up.a.01')	Synset('upbound.s.01')	upbound shipping lanes	upbound		heading in any direction that is conventionally up
+Synset('up.a.01')	Synset('aweigh.s.01')	anchors aweigh	aweigh		(used of an anchor) hanging clear of the bottom
+Synset('up.a.01')	Synset('ahead.s.01')	he is ahead by a pawn / the leading team in the pennant race	ahead, in_the_lead, leading		having the leading position or higher score in a contest
+Synset('up.a.01')	Synset('risen.s.01')	the risen sun	risen		(of e.g. celestial bodies) above the horizon
+Synset('up.a.01')	Synset('dormie.s.01')	he was dormie three and still lost the match	dormie, dormy		in match play a side that stands as many holes ahead as there are holes remaining to be played
+Synset('up.a.01')	Synset('heavenward.s.01')	the soul in its heavenward flight	heavenward, skyward		directed toward heaven or the sky
+Synset('up.a.01')	Synset('upward.s.01')	the cards were face upward / an upward stroke of the pen	upward		directed up
+Synset('up.a.01')	Synset('sprouted.s.01')	the corn is sprouted	sprouted		(of growing vegetation) having just emerged from the ground
+Synset('up.a.01')	Synset('upfield.s.01')		upfield		away from the defending teams' end of the playing field
+Synset('intrusive.a.01')	Synset('intrusive.a.01')	she felt her presence there was intrusive	intrusive	BEHAVIOR	tending to intrude (especially upon privacy)
+Synset('intrusive.a.01')	Synset('interfering.s.01')	an interfering old woman / bustling about self-importantly making an officious nuisance of himself / busy about other people's business	interfering, meddlesome, meddling, officious, busy, busybodied		intrusive in a meddling or offensive manner
+Synset('intrusive.a.01')	Synset('encroaching.s.01')	we moved back from the encroaching tide / invasive tourists / trespassing hunters	encroaching, invasive, trespassing		gradually intrusive without right or permission
+Synset('forceful.a.01')	Synset('forceful.a.01')	a forceful speaker / a forceful personality / forceful measures / a forceful plan for peace	forceful	BODY	characterized by or full of force or strength (often but not necessarily physical)
+Synset('forceful.a.01')	Synset('impellent.s.01')	an impellent power / an impellent cause	impellent		forcing forward or onward; impelling
+Synset('forceful.a.01')	Synset('sharp.s.12')	a sharp blow	sharp		quick and forceful
+Synset('forceful.a.01')	Synset('forcible.s.01')	forcible entry / a real cop would get physical / strong-arm tactics	forcible, physical, strong-arm		impelled by physical force especially against resistance
+Synset('forceful.a.01')	Synset('emphatic.s.02')	an emphatic no	emphatic, exclamatory		sudden and strong
+Synset('forceful.a.01')	Synset('drastic.s.01')	drastic measures	drastic		forceful and extreme and rigorous
+Synset('forceful.a.01')	Synset('impetuous.s.02')	impetuous heaving waves	impetuous		marked by violent force
+Synset('forceful.a.01')	Synset('bruising.s.02')	protected from the bruising facts of battle	bruising		brutally forceful and compelling
+Synset('forceful.a.01')	Synset('firm.s.03')	a firm grasp / gave a strong pull on the rope	firm, strong		strong and sure
+Synset('central.a.02')	Synset('central.a.02')	a central position	central	SPATIAL	in or near a center or constituting a center; the inner area
+Synset('central.a.02')	Synset('median.s.03')		median, medial		relating to or situated in or extending toward the middle
+Synset('central.a.02')	Synset('nuclear.s.04')	annexation of the suburban fringe by the nuclear metropolis / the nuclear core of the congregation	nuclear		constituting or like a nucleus
+Synset('central.a.02')	Synset('centered.s.01')		centered		being or placed in the center
+Synset('central.a.02')	Synset('focal.s.01')	focal point / focal infection	focal		having or localized centrally at a focus
+Synset('central.a.02')	Synset('bicentric.s.01')		bicentric		having two centers
+Synset('central.a.02')	Synset('amidship.s.01')		amidship		located in the middle part of a ship or aircraft
+Synset('central.a.02')	Synset('center.s.01')		center, halfway, middle, midway		equally distant from the extremes
+Synset('central.a.02')	Synset('middlemost.s.01')		middlemost, midmost		being in the exact middle
+Synset('central.a.02')	Synset('centric.s.01')		centric, centrical		having or situated at or near a center
+Synset('central.a.02')	Synset('bifocal.s.01')	bifocal eyeglasses	bifocal		having two foci
+Synset('breathless.a.01')	Synset('breathless.a.01')	breathless at thought of what I had done / breathless from running / followed the match with breathless interest	breathless, dyspneic, dyspnoeic, dyspneal, dyspnoeal	BODY	not breathing or able to breathe except with difficulty
+Synset('breathless.a.01')	Synset('asphyxiating.s.01')	asphyxiating gasses	asphyxiating		tending to deprive of oxygen
+Synset('breathless.a.01')	Synset('smothering.s.01')	the choking June dust / the smothering soft voices / smothering heat / the room was suffocating--hot and airless	smothering, suffocating, suffocative		causing difficulty in breathing especially through lack of fresh air and presence of heat
+Synset('breathless.a.01')	Synset('blown.s.02')		blown, pursy, short-winded, winded		breathing laboriously or convulsively
+Synset('resolute.a.01')	Synset('resolute.a.01')	stood resolute against the enemy / faced with a resolute opposition / a resolute and unshakeable faith	resolute	BEHAVIOR	firm in purpose or belief; characterized by firmness and determination
+Synset('resolute.a.01')	Synset('foursquare.s.01')	a foursquare refusal to yield	foursquare		characterized by firm and unwavering conviction
+Synset('resolute.a.01')	Synset('undeterred.s.01')	pursued his own path...undeterred by lack of popular appreciation and understanding"- Osbert Sitwell	undeterred, undiscouraged		not deterred
+Synset('resolute.a.01')	Synset('undaunted.s.01')	wholly undismayed by the commercial failure of the three movies he had made	undaunted, undismayed, unshaken		unshaken in purpose
+Synset('resolute.a.01')	Synset('spartan.s.02')	spartan courage	spartan		resolute in the face of pain or danger or adversity
+Synset('resolute.a.01')	Synset('desperate.s.02')	do-or-die revolutionaries / a do-or-die conflict	desperate, do-or-die		desperately determined
+Synset('resolute.a.01')	Synset('determined.s.01')	a struggle against a determined enemy	determined		characterized by great determination
+Synset('resolute.a.01')	Synset('hell-bent.s.01')	hell-bent on winning	hell-bent		recklessly determined
+Synset('resolute.a.01')	Synset('single-minded.s.01')	she was firmly resolved to be a doctor / single-minded in his determination to stop smoking	single-minded, resolved		determined
+Synset('resolute.a.01')	Synset('firm.s.01')	firm convictions / a firm mouth / steadfast resolve / a man of unbendable perseverence / unwavering loyalty	firm, steadfast, steady, stiff, unbendable, unfaltering, unshakable, unwavering		marked by firm determination or resolution; not shakable
+Synset('resolute.a.01')	Synset('stalwart.s.02')	the stalwart citizens at Lexington / a stalwart supporter of the UN / stout hearts	stalwart, stout		dependable
+Synset('resolute.a.01')	Synset('bent.s.01')	bent on going to the theater / dead set against intervening / out to win every event	bent, bent_on, dead_set, out_to		fixed in your purpose
+Synset('commensurate.a.01')	Synset('commensurate.a.01')	pay should be commensurate with the time worked	commensurate	MISCELLANEOUS	corresponding in size or degree or extent
+Synset('commensurate.a.01')	Synset('proportionate.s.02')		proportionate		agreeing in amount, magnitude, or degree
+Synset('commensurate.a.01')	Synset('commensurable.s.01')	hours and minutes are commensurable	commensurable		capable of being measured by a common standard
+Synset('commensurate.a.01')	Synset('coextensive.s.01')		coextensive, coterminous, conterminous		being of equal extent or scope or duration
+Synset('unnatural.a.01')	Synset('unnatural.a.01')	an unnatural death / the child's unnatural interest in death	unnatural	BEHAVIOR	not in accordance with or determined by nature; contrary to nature
+Synset('unnatural.a.01')	Synset('violent.s.02')	a violent death	violent		effected by force or injury rather than natural causes
+Synset('unforgettable.a.01')	Synset('unforgettable.a.01')		unforgettable	MISCELLANEOUS	impossible to forget
+Synset('unforgettable.a.01')	Synset('red-letter.s.01')	on red-letter nights a large gathering greeted the celebrity	red-letter		memorable for being a special occasion
+Synset('unforgettable.a.01')	Synset('haunting.s.01')	haunting memories / the cathedral organ and the distant voices have a haunting beauty"- Claudia Cassidy	haunting, persistent		continually recurring to the mind
+Synset('unforgettable.a.01')	Synset('memorable.s.01')		memorable		worth remembering
+Synset('enchanted.a.01')	Synset('enchanted.a.01')		enchanted	FEELING	influenced as by charms or incantations
+Synset('enchanted.a.01')	Synset('fascinated.s.01')		fascinated, hypnotized, hypnotised, mesmerized, mesmerised, spellbound, spell-bound, transfixed		having your attention fixated as though by a spell
+Synset('enchanted.a.01')	Synset('bewitched.s.01')		bewitched, ensorcelled		under a spell
+Synset('enchanted.a.01')	Synset('beguiled.s.01')		beguiled, captivated, charmed, delighted, enthralled, entranced		filled with wonder and delight
+Synset('steady.a.01')	Synset('steady.a.01')	a steady beat / a steady job / a steady breeze / a steady increase / a good steady ballplayer	steady	MIND	not subject to change or variation especially in behavior
+Synset('steady.a.01')	Synset('steadied.s.01')	the noise became a steadied roaring	steadied		made steady or constant
+Synset('steady.a.01')	Synset('dependable.s.03')	dependable in one's habits / a steady-going family man	dependable, rock-steady, steady-going		consistent in performance or behavior
+Synset('steady.a.01')	Synset('sure.s.08')	a sure hand on the throttle	sure		certain not to fail
+Synset('steady.a.01')	Synset('even.s.05')	a regular beat / the even rhythm of his breathing	even, regular		occurring at fixed intervals
+Synset('steady.a.01')	Synset('level.s.02')	spoke in a level voice / she gave him a level look"- Louis Auchincloss	level, unwavering		not showing abrupt variations
+Synset('steady.a.01')	Synset('firm.s.05')	his voice was firm and confident / a firm step	firm		(of especially a person's physical features) not shaking or trembling
+Synset('steady.a.01')	Synset('surefooted.s.01')	on surefooted donkeys	surefooted, sure-footed, footsure		not liable to stumble or fall
+Synset('same.a.02')	Synset('same.a.02')	curtains the same color as the walls / two girls of the same age / mother and son have the same blue eyes / animals of the same species / the same rules as before / two boxes having the same dimensions / the same day next year	same	MISCELLANEOUS	closely similar or comparable in kind or quality or quantity or degree
+Synset('same.a.02')	Synset('assonant.s.01')	note the assonant words and syllables in `tilting at windmills'	assonant		having the same sound (especially the same vowel sound) occurring in successive stressed syllables
+Synset('same.a.02')	Synset('cookie-cutter.s.01')	a suburb of cookie-cutter houses	cookie-cutter		having the same appearance (as if mass-produced)
+Synset('same.a.02')	Synset('synoptic.s.02')	synoptic sayings	synoptic, synoptical		presenting or taking the same point of view; used especially with regard to the first three gospels of the New Testament
+Synset('same.a.02')	Synset('homophonic.s.01')		homophonic		having the same sound
+Synset('same.a.02')	Synset('one.s.03')	two animals of one species	one		of the same kind or quality
+Synset('same.a.02')	Synset('duplicate.s.01')	a duplicate key	duplicate		identically copied from an original
+Synset('same.a.02')	Synset('comparable.s.02')	boxes with corresponding dimensions / the like period of the preceding year	comparable, corresponding, like		conforming in every respect
+Synset('same.a.02')	Synset('identical.s.01')	rows of identical houses / cars identical except for their license plates / they wore indistinguishable hats	identical, indistinguishable		exactly alike; incapable of being perceived as different
+Synset('heavy.a.01')	Synset('heavy.a.01')	a heavy load / lead is a heavy metal / heavy mahogany furniture	heavy	BODY	of comparatively great physical weight or density
+Synset('heavy.a.01')	Synset('non-buoyant.s.01')		non-buoyant		tending to sink in a liquid or fall in air
+Synset('heavy.a.01')	Synset('hefty.s.02')	a hefty dictionary	hefty		of considerable weight and size
+Synset('heavy.a.01')	Synset('dense.s.03')	dense as lead	dense		having high relative density or specific gravity
+Synset('heavy.a.01')	Synset('ponderous.s.02')	a ponderous stone / a ponderous burden / ponderous weapons	ponderous		having great mass and weight and unwieldiness
+Synset('heavy.a.01')	Synset('heavier-than-air.s.01')		heavier-than-air		relating to an aircraft heavier than the air it displaces
+Synset('heavy.a.01')	Synset('doughy.s.01')	the cake fell	doughy, soggy		having the consistency of dough because of insufficient leavening or improper cooking; it's a doughy mess"
+Synset('heavy.a.01')	Synset('massive.s.04')	Earth is the most massive of the terrestrial planets	massive		consisting of great mass; containing a great quantity of matter
+Synset('tall.a.01')	Synset('tall.a.01')	tall people / tall buildings / tall trees / tall ships	tall	BODY	great in vertical dimension; high in stature
+Synset('tall.a.01')	Synset('long-stalked.s.01')		long-stalked, tall-stalked		of plants having relatively long stalks
+Synset('tall.a.01')	Synset('leggy.s.02')		leggy, long-legged, long-shanked		having long legs
+Synset('tall.a.01')	Synset('gangling.s.01')	a gangling teenager / a lanky kid transformed almost overnight into a handsome young man	gangling, gangly, lanky, rangy		tall and thin and having long slender limbs
+Synset('tall.a.01')	Synset('long.s.03')	a race of long gaunt men"- Sherwood Anderson / looked out the long French windows	long		of relatively great height
+Synset('tall.a.01')	Synset('leggy.s.01')		leggy, tall-growing		(of plants) having tall spindly stems
+Synset('tall.a.01')	Synset('stately.s.02')		stately, statuesque		of size and dignity suggestive of a statue
+Synset('tall.a.01')	Synset('tallish.s.01')		tallish		somewhat tall
+Synset('tall.a.01')	Synset('in_height.s.01')	five feet tall / five feet in height	in_height		having a specified height
+Synset('inhabited.a.01')	Synset('inhabited.a.01')	the inhabited regions of the earth	inhabited	MISCELLANEOUS	having inhabitants; lived in
+Synset('inhabited.a.01')	Synset('colonized.s.01')		colonized, colonised, settled		inhabited by colonists
+Synset('inhabited.a.01')	Synset('haunted.s.03')	a haunted house	haunted		inhabited by or as if by apparitions
+Synset('inhabited.a.01')	Synset('populous.s.01')		populous, thickly_settled		densely populated
+Synset('inhabited.a.01')	Synset('rock-inhabiting.s.01')		rock-inhabiting		of ferns and lichens that grow on rocks
+Synset('inhabited.a.01')	Synset('occupied.s.03')	not all the occupied (or tenanted) apartments were well kept up	occupied, tenanted		resided in; having tenants
+Synset('inhabited.a.01')	Synset('owner-occupied.s.01')	one owner-occupied and three rental apartments	owner-occupied		lived in by the owner
+Synset('inhabited.a.01')	Synset('underpopulated.s.01')	the richly endowed but underpopulated Ivory Coast	underpopulated		having a lower population density than normal or desirable
+Synset('inhabited.a.01')	Synset('peopled.s.01')	sparsely peopled arctic regions	peopled		furnished with people
+Synset('inhabited.a.01')	Synset('populated.s.01')	the area is well populated / forests populated with all kinds of wild life	populated		furnished with inhabitants
+Synset('lethargic.a.01')	Synset('lethargic.a.01')	bullfrogs became lethargic with the first cold nights	lethargic, unenrgetic	FEELING	deficient in alertness or activity
+Synset('lethargic.a.01')	Synset('listless.s.01')	he was listless and bored	listless		lacking zest or vivacity
+Synset('lethargic.a.01')	Synset('dazed.s.02')		dazed, foggy, groggy, logy, stuporous		stunned or confused and slow to react (as from blows or drunkenness or exhaustion)
+Synset('lethargic.a.01')	Synset('dreamy.s.02')	a lackadaisical attempt / a languid mood / a languid wave of the hand / a hot languorous afternoon	dreamy, lackadaisical, languid, languorous		lacking spirit or liveliness
+Synset('cursed.a.01')	Synset('cursed.a.01')	villagers shun the area believing it to be cursed / cursed with four daughter / not a cursed drop / his cursed stupidity / I'll be cursed if I can see your reasoning	cursed, curst	MISCELLANEOUS	deserving a curse; sometimes used as an intensifier
+Synset('cursed.a.01')	Synset('blasted.s.01')	he's a blasted idiot / it's a blamed shame / a blame cold winter / not a blessed dime / I'll be damned (or blessed or darned or goddamned) if I'll do any such thing / he's a damn (or goddam or goddamned) fool / a deuced idiot / an infernal nuisance	blasted, blame, blamed, blessed, damn, damned, darned, deuced, goddam, goddamn, goddamned, infernal		expletives used informally as intensifiers
+Synset('cursed.a.01')	Synset('damnable.s.01')	her damnable pride	damnable, execrable		deserving a curse
+Synset('cursed.a.01')	Synset('accursed.s.01')		accursed, accurst, maledict		under a curse
+Synset('cursed.a.01')	Synset('cursed_with.s.01')	stuck with the tab	cursed_with, stuck_with		burdened with
+Synset('cursed.a.01')	Synset('damn.s.01')	oh, damn (or goddamn)!	damn, goddamn		used as expletives
+Synset('ordinary.a.01')	Synset('ordinary.a.01')	ordinary everyday objects / ordinary decency / an ordinary day / an ordinary wine	ordinary	MIND	not exceptional in any way especially in quality or ability or size or degree
+Synset('ordinary.a.01')	Synset('characterless.s.01')	women dressed in nondescript clothes / a nondescript novel	characterless, nondescript		lacking distinct or individual characteristics; dull and uninteresting
+Synset('ordinary.a.01')	Synset('banausic.s.01')	he felt contempt for all banausic occupations	banausic		(formal) ordinary and not refined
+Synset('ordinary.a.01')	Synset('cut-and-dried.s.01')		cut-and-dried, cut-and-dry		according to ordinary expectations
+Synset('ordinary.a.01')	Synset('run-of-the-mill.s.01')	run-of-the-mill boxing / your run-of-the-mine college graduate / a unexceptional an incident as can be found in a lawyer's career	run-of-the-mill, run-of-the-mine, mine_run, unexceptional		not special in any way
+Synset('ordinary.a.01')	Synset('indifferent.s.09')	an indifferent performance / a gifted painter but an indifferent actor / her work at the office is passable / a so-so golfer / feeling only so-so / prepared a tolerable dinner / a tolerable working knowledge of French	indifferent, so-so		being neither good nor bad
+Synset('ordinary.a.01')	Synset('average.s.03')	a novel of average merit / only a fair performance of the sonata / in fair health / the caliber of the students has gone from mediocre to above average / the performance was middling at best	average, fair, mediocre, middling		lacking exceptional quality or ability
+Synset('ordinary.a.01')	Synset('everyday.s.01')	a placid everyday scene / it was a routine day / there's nothing quite like a real...train conductor to add color to a quotidian commute"- Anita Diamant	everyday, mundane, quotidian, routine, unremarkable, workaday		found in the ordinary course of events
+Synset('ordinary.a.01')	Synset('common.s.09')	common decency	common		to be expected; standard
+Synset('ordinary.a.01')	Synset('commonplace.s.01')	air travel has now become commonplace / commonplace everyday activities	commonplace		completely ordinary and unremarkable
+Synset('supported.a.02')	Synset('supported.a.02')	supported joints in a railroad track have ties directly under the rail ends	supported	SPATIAL	held up or having the weight borne especially from below
+Synset('supported.a.02')	Synset('underhung.s.01')	underhung sliding doors	underhung		supported from below especially resting on a track instead of suspended from above
+Synset('supported.a.02')	Synset('underslung.s.01')		underslung		supported from above especially in a vehicle having springs attached to the axle from below
+Synset('supported.a.02')	Synset('gimbaled.s.01')		gimbaled		supported on gimbals and remaining steady or level when the base tips
+Synset('supported.a.02')	Synset('based.s.01')	firmly based ice	based		having a base
+Synset('supported.a.02')	Synset('braced.s.02')		braced, buttressed		held up by braces or buttresses
+Synset('supported.a.02')	Synset('suspended.s.01')	suspended matter such as silt or mud... / dust particles suspended in the air / droplets in suspension in a gas	suspended		(of undissolved particles in a fluid) supported or kept from sinking or falling by buoyancy and without apparent attachment
+Synset('supported.a.02')	Synset('pendent.s.01')	a pendant bunch of grapes	pendent, pendant, dependent		held from above
+Synset('supported.a.02')	Synset('supernatant.s.01')	the supernatant fat was skimmed off	supernatant		of a liquid; floating on the surface above a sediment or precipitate
+Synset('open.a.02')	Synset('open.a.02')	open drains / the road is open to traffic / open ranks	open	MISCELLANEOUS	affording free passage or access
+Synset('open.a.02')	Synset('yawning.s.01')	the yawning mine shaft / a yawning abyss	yawning		gaping open as if threatening to engulf someone or something
+Synset('open.a.02')	Synset('unstoppered.s.01')	whiskey spilled from the unstoppered bottle	unstoppered		(of a container) having the stopper removed
+Synset('open.a.02')	Synset('opened.s.02')	the newly opened road	opened		made open or clear
+Synset('unexpected.a.01')	Synset('unexpected.a.01')	unexpected guests / unexpected news	unexpected	FEELING	not expected or anticipated
+Synset('unexpected.a.01')	Synset('unhoped.s.01')	an unhoped-for piece of luck / an unthought advantage / an unthought-of place to find the key	unhoped, unhoped-for, unthought, unthought-of		so unexpected as to have not been imagined
+Synset('unexpected.a.01')	Synset('upset.s.03')	the Bills' upset victory over the Houston Oilers	upset		used of an unexpected defeat of a team favored to win
+Synset('unexpected.a.01')	Synset('unanticipated.s.01')	unanticipated and disconcerting lines of development"- H.W.Glidden / unforeseen circumstances / a virtue unlooked-for in people so full of energy / like a bolt out of the blue	unanticipated, unforeseen, unlooked-for, out_of_the_blue		not anticipated
+Synset('unexpected.a.01')	Synset('unprovided_for.s.02')		unprovided_for		not prepared or ready for
+Synset('unexpected.a.01')	Synset('unannounced.s.01')	they arrived unannounced / a totally unheralded telegram that his daughter...died last night"- M.A.D.Howe	unannounced, unheralded, unpredicted		without warning or announcement
+Synset('difficult.a.01')	Synset('difficult.a.01')	a difficult task / nesting places on the cliffs are difficult of access / difficult times / why is it so hard for you to keep a secret?	difficult, hard	MISCELLANEOUS	not easy; requiring great physical or mental effort to accomplish or comprehend or endure
+Synset('difficult.a.01')	Synset('trying.s.01')	fell upon trying times	trying		hard to endure
+Synset('difficult.a.01')	Synset('troublesome.s.01')	a troublesome infection / a troublesome situation	troublesome		difficult to deal with
+Synset('difficult.a.01')	Synset('nasty.s.02')	a nasty problem / a good man to have on your side in a tight situation	nasty, tight		exasperatingly difficult to handle or circumvent
+Synset('difficult.a.01')	Synset('fractious.s.03')	rockets were much too fractious to be tested near thickly populated areas / fractious components of a communication system	fractious		unpredictably difficult in operation; likely to be troublesome
+Synset('difficult.a.01')	Synset('hard-fought.s.01')	a hard-fought primary	hard-fought		requiring great effort
+Synset('difficult.a.01')	Synset('baffling.s.01')	a baffling problem / I faced the knotty problem of what to have for breakfast / a problematic situation at home	baffling, elusive, knotty, problematic, problematical, tough		making great mental demands; hard to comprehend or solve or believe
+Synset('difficult.a.01')	Synset('herculean.s.02')	a herculean task	herculean		extremely difficult; requiring the strength of a Hercules
+Synset('difficult.a.01')	Synset('tall.s.03')	a tall order	tall		impressively difficult
+Synset('difficult.a.01')	Synset('delicate.s.06')	delicate negotiations with the big powers / hesitates to be explicit on so ticklish a matter / a touchy subject	delicate, ticklish, touchy		difficult to handle; requiring great tact
+Synset('difficult.a.01')	Synset('serious.s.06')	raised serious objections to the proposal / the plan has a serious flaw	serious		requiring effort or concentration; complex and not easy to answer or solve
+Synset('difficult.a.01')	Synset('thorny.s.01')	the thorny question of states' rights	thorny		bristling with perplexities
+Synset('difficult.a.01')	Synset('rocky.s.04')	the rocky road to success / they were having a rough time	rocky, rough		full of hardship or trials
+Synset('difficult.a.01')	Synset('vexed.s.02')	the vexed issue of priorities / we live in vexed and troubled times	vexed		causing difficulty in finding an answer or solution; much disputed
+Synset('difficult.a.01')	Synset('ambitious.s.02')	ambitious schedule / performed the most challenging task without a mistake	ambitious, challenging		requiring full use of your abilities or resources
+Synset('difficult.a.01')	Synset('awkward.s.05')	awkward (or embarrassing or difficult) moments in the discussion / an awkward pause followed his remark / a sticky question / in the unenviable position of resorting to an act he had planned to save for the climax of the campaign	awkward, embarrassing, sticky, unenviable		hard to deal with; especially causing pain or embarrassment
+Synset('difficult.a.01')	Synset('catchy.s.01')	a catchy question / a tricky recipe to follow	catchy, tricky		having concealed difficulty
+Synset('difficult.a.01')	Synset('arduous.s.03')	the arduous work of preparing a dictionary	arduous		difficult to accomplish; demanding considerable mental effort and skill
+Synset('difficult.a.01')	Synset('rugged.s.04')	a rugged competitive examination / the rugged conditions of frontier life / the competition was tough / it's a tough life / it was a tough job	rugged, tough		very difficult; severely testing stamina or resolution
+Synset('dirty.a.02')	Synset('dirty.a.02')	dirty words / a dirty old man / dirty books and movies / boys telling dirty jokes / has a dirty mouth	dirty	MIND	(of behavior or especially language) characterized by obscenity or indecency
+Synset('dirty.a.02')	Synset('cruddy.s.01')	had a filthy mouth / foul language / smutty jokes	cruddy, filthy, foul, nasty, smutty		characterized by obscenity
+Synset('dirty.a.02')	Synset('foul-mouthed.s.01')	noisy foul-mouthed women all shouting at once	foul-mouthed, foul-spoken		using foul or obscene language
+Synset('dirty.a.02')	Synset('bawdy.s.01')	bawdy songs / off-color jokes / ribald language	bawdy, off-color, ribald		humorously vulgar
+Synset('dirty.a.02')	Synset('scabrous.s.02')	a scabrous novel	scabrous		dealing with salacious or indecent material
+Synset('dirty.a.02')	Synset('dirty-minded.s.01')		dirty-minded		having lewd thoughts
+Synset('dirty.a.02')	Synset('lewd.s.01')	lewd whisperings of a dirty old man / an indecent gesture / obscene telephone calls / salacious limericks	lewd, obscene, raunchy, salacious		suggestive of or tending to moral looseness
+Synset('dirty.a.02')	Synset('blasphemous.s.02')	foul-mouthed and blasphemous / blue language / profane words	blasphemous, blue, profane		characterized by profanity or cursing
+Synset('dirty.a.02')	Synset('scatological.s.01')	scatological literature	scatological		dealing pruriently with excrement and excretory functions
+Synset('achromatic.a.01')	Synset('achromatic.a.01')	neutral colors like black or white	achromatic, neutral	PERCEPTION	having no hue
+Synset('achromatic.a.01')	Synset('yellow-grey.s.01')		yellow-grey, yellow-gray, yellowish-grey, yellowish-gray		of grey tinged with yellow
+Synset('achromatic.a.01')	Synset('black-grey.s.01')		black-grey, black-gray, blackish-grey, blackish-gray		of dark grey
+Synset('achromatic.a.01')	Synset('milk-white.s.01')		milk-white		of a white the color of fresh milk
+Synset('achromatic.a.01')	Synset('greenish-grey.s.01')		greenish-grey, greenish-gray		of grey tinged with green
+Synset('achromatic.a.01')	Synset('slate-black.s.01')		slate-black		of a black tinged with slate-grey
+Synset('achromatic.a.01')	Synset('brown-grey.s.01')		brown-grey, brown-gray, brownish-grey, brownish-gray		of grey tinged with brown
+Synset('achromatic.a.01')	Synset('snow-white.s.01')		snow-white, snowy		of the white color of snow
+Synset('achromatic.a.01')	Synset('iron-grey.s.01')		iron-grey, iron-gray		of the grey color of iron
+Synset('achromatic.a.01')	Synset('purple-white.s.01')		purple-white, purplish-white		of white tinged with purple
+Synset('achromatic.a.01')	Synset('chalky.s.02')	she turned chalky white	chalky		of something having the color of chalk
+Synset('achromatic.a.01')	Synset('purple-black.s.01')		purple-black, purplish-black		of black tinged with purple
+Synset('achromatic.a.01')	Synset('white-flowered.s.01')		white-flowered		(of plants) having white flowers
+Synset('achromatic.a.01')	Synset('olive-grey.s.01')		olive-grey, olive-gray		of grey tinged with olive
+Synset('achromatic.a.01')	Synset('brown-black.s.01')		brown-black, brownish-black		of black tinged with brown
+Synset('achromatic.a.01')	Synset('blackish.s.01')	blackish clouds	blackish		of something that is somewhat black
+Synset('achromatic.a.01')	Synset('blue-black.s.01')		blue-black, bluish_black		of black tinged with blue
+Synset('achromatic.a.01')	Synset('whitish.s.02')		whitish, off-white		of something having a color tending toward white
+Synset('achromatic.a.01')	Synset('grey-white.s.01')		grey-white, gray-white, greyish-white, grayish-white		of white tinged with grey
+Synset('achromatic.a.01')	Synset('cottony-white.s.01')	cottony-white clouds	cottony-white		of something as white as cotton
+Synset('achromatic.a.01')	Synset('green-white.s.01')		green-white, greenish-white		of white flowers tinged with green
+Synset('achromatic.a.01')	Synset('dull-white.s.01')		dull-white		of a dull shade of white
+Synset('achromatic.a.01')	Synset('pearl_grey.s.01')		pearl_grey, pearl_gray		of a grey with a pearly tinge
+Synset('achromatic.a.01')	Synset('lily-white.s.02')		lily-white		of a pure white color
+Synset('achromatic.a.01')	Synset('silver-white.s.01')		silver-white, silvery-white		of a white that resembles silver
+Synset('achromatic.a.01')	Synset('grey-black.s.01')		grey-black, gray-black, greyish-black, grayish-black		of black tinged with grey
+Synset('achromatic.a.01')	Synset('blue-grey.s.01')		blue-grey, blue-gray, bluish-grey, bluish-gray		of grey tinged with blue
+Synset('achromatic.a.01')	Synset('pinkish-white.s.01')		pinkish-white		of white tinged with pink
+Synset('achromatic.a.01')	Synset('pearly.s.01')		pearly, pearly-white		of a white the color of pearls
+Synset('achromatic.a.01')	Synset('ash-grey.s.01')		ash-grey, ash-gray, ashy		of a light grey
+Synset('achromatic.a.01')	Synset('grey.s.01')	the little grey cells / gray flannel suit / a man with greyish hair	grey, gray, greyish, grayish		of an achromatic color of any lightness intermediate between the extremes of white and black
+Synset('achromatic.a.01')	Synset('yellow-white.s.01')		yellow-white, yellowish-white		of a white tinged with yellow
+Synset('achromatic.a.01')	Synset('hueless.s.01')		hueless		of something totally lacking in saturation and therefore having no hue
+Synset('achromatic.a.01')	Synset('argent.s.01')	silvery hair	argent, silver, silvery, silverish		of lustrous grey; covered with or tinged with the color of silver
+Synset('achromatic.a.01')	Synset('charcoal.s.01')		charcoal, charcoal-grey, charcoal-gray		of a very dark grey
+Synset('achromatic.a.01')	Synset('ebon.s.01')		ebon, ebony		of a very dark black
+Synset('achromatic.a.01')	Synset('silver-grey.s.01')		silver-grey, silver-gray, silvery-grey, silvery-gray		of grey resembling silver
+Synset('achromatic.a.01')	Synset('slate-grey.s.01')	the slaty sky of dawn	slate-grey, slate-gray, slaty-grey, slaty-gray, slaty, slatey, stone-grey, stone-gray		of the color of slate or granite
+Synset('achromatic.a.01')	Synset('ink-black.s.01')		ink-black, inky, inky-black		of the color of black ink
+Synset('achromatic.a.01')	Synset('soot-black.s.01')		soot-black, sooty-black		of the black color of soot
+Synset('achromatic.a.01')	Synset('blue-white.s.01')		blue-white, bluish-white, cool-white		of white tinged with blue
+Synset('achromatic.a.01')	Synset('coal-black.s.01')		coal-black, jet, jet-black, pitchy, sooty		of the blackest black; similar to the color of jet or coal
+Synset('achromatic.a.01')	Synset('violet-black.s.01')		violet-black		of black tinged with violet
+Synset('achromatic.a.01')	Synset('oxford-grey.s.01')		oxford-grey, oxford-gray, dark-grey, dark-gray		of a dark shade of grey
+Synset('achromatic.a.01')	Synset('sable.s.01')		sable		of a dark somewhat brownish black
+Synset('achromatic.a.01')	Synset('red-grey.s.01')		red-grey, red-gray, reddish-grey, reddish-gray		of grey tinged with red
+Synset('achromatic.a.01')	Synset('canescent.s.01')	the canescent moon	canescent		of greyish white
+Synset('unprotected.a.01')	Synset('unprotected.a.01')		unprotected	MISCELLANEOUS	lacking protection or defense
+Synset('unprotected.a.01')	Synset('unshielded.s.01')		unshielded		(used especially of machinery) not protected by a shield
+Synset('unprotected.a.01')	Synset('naked.s.02')	naked to mine enemies"- Shakespeare	naked, defenseless		having no protecting or concealing cover
+Synset('unprotected.a.01')	Synset('exposed.s.01')	the exposed northeast frontier / open to the weather / an open wound	exposed, open		with no protection or shield
+Synset('empty.a.01')	Synset('empty.a.01')	an empty glass / an empty room / full of empty seats / empty hours	empty	SPATIAL	holding or containing nothing
+Synset('empty.a.01')	Synset('blank.s.01')	blank pages / fill in the blank spaces / a clean page / wide white margins	blank, clean, white		(of a surface) not written or printed on
+Synset('empty.a.01')	Synset('vacant.s.01')	a vacant mind	vacant		void of thought or knowledge
+Synset('empty.a.01')	Synset('looted.s.01')	the robbers left the looted train / people returned to the plundered village	looted, pillaged, plundered, ransacked		wrongfully emptied or stripped of anything of value
+Synset('empty.a.01')	Synset('vacuous.s.03')	a vacuous space	vacuous		devoid of matter
+Synset('empty.a.01')	Synset('lifeless.s.02')	after the dance the littered and lifeless ballroom echoed hollowly	lifeless		destitute or having been emptied of life or living beings
+Synset('empty.a.01')	Synset('void.s.02')	the earth was without form, and void	void		containing nothing
+Synset('empty.a.01')	Synset('empty-handed.s.02')		empty-handed		carrying nothing in the hands
+Synset('empty.a.01')	Synset('vacant.s.02')	the throne is never vacant	vacant		without an occupant or incumbent
+Synset('empty.a.01')	Synset('bare.s.09')	the bare walls / the cupboard was bare	bare, stripped		having everything extraneous removed including contents
+Synset('empty.a.01')	Synset('glassy.s.02')	empty eyes / a glassy stare / his eyes were glazed over with boredom	glassy, glazed		(used of eyes) lacking liveliness
+Synset('close.a.01')	Synset('close.a.01')	close to noon / how close are we to town? / a close formation of ships	close	SPATIAL	at or within a short distance in space or time or having elements near each other
+Synset('close.a.01')	Synset('nestled.s.01')	saw a number of small houses nestled against the hillside / like a baby snuggled in its mother's arms	nestled, snuggled		drawn or pressed close to someone or something for or as if for affection or protection
+Synset('close.a.01')	Synset('enveloping.s.01')	the army's enveloping maneuver	enveloping		surrounding and closing in on or hemming in
+Synset('close.a.01')	Synset('at_hand.s.02')	retribution is at hand / some people believe the day of judgment is close at hand / in imminent danger / his impending retirement	at_hand, close_at_hand, imminent, impendent, impending		close in time; about to occur
+Synset('close.a.01')	Synset('encompassing.s.02')	encompassing mountain ranges / the surrounding countryside	encompassing, surrounding, circumferent		closely encircling
+Synset('close.a.01')	Synset('walk-to.s.01')	walking distance / the factory with the big parking lot...is more convenient than the walk-to factory	walk-to, walking		close enough to be walked to
+Synset('close.a.01')	Synset('close-hauled.s.01')		close-hauled		having the sails trimmed for sailing as close to the wind as possible
+Synset('close.a.01')	Synset('adjacent.s.01')	had adjacent rooms / in the next room / the person sitting next to me / our rooms were side by side	adjacent, next, side_by_side		nearest in space or position; immediately adjoining without intervening space
+Synset('close.a.01')	Synset('appressed.s.01')	adpressed hairs along the plant's stem / igneous rocks...closely appressed by this force"-L.V.Pirsson	appressed, adpressed		pressed close to or lying flat against something
+Synset('close.a.01')	Synset('juxtaposed.s.01')	juxtaposed pictures	juxtaposed		placed side by side often for comparison
+Synset('close.a.01')	Synset('at_hand.s.01')	the town is close at hand	at_hand, close_at_hand		close in space; within reach
+Synset('close.a.01')	Synset('ambient.s.01')	the ambient air / ambient sound / the ambient temperature	ambient		completely enveloping
+Synset('close.a.01')	Synset('hand-to-hand.s.01')	hand-to-hand fighting	hand-to-hand		being at close quarters
+Synset('close.a.01')	Synset('proximate.s.02')	proximate words / proximate houses	proximate		very close in space or time
+Synset('close.a.01')	Synset('scalelike.s.01')	scalelike leaves	scalelike		reduced to a small appressed thing that resembles a scale
+Synset('close.a.01')	Synset('approximate.s.03')	with heads close together / approximate leaves grow together but are not united	approximate, close_together		located close together
+Synset('close.a.01')	Synset('contiguous.s.01')	contiguous events / immediate contact / the immediate vicinity / the immediate past	contiguous, immediate		very close or connected in space or time
+Synset('close.a.01')	Synset('close-set.s.01')	close-set eyes / close-set teeth / her eyes are close set	close-set, close_set		set close together
+Synset('ineligible.a.01')	Synset('ineligible.a.01')	ineligible to vote / ineligible for retirement benefits	ineligible	MIND	not eligible
+Synset('ineligible.a.01')	Synset('disqualified.s.01')		disqualified		disqualified by law or rule or provision
+Synset('ineligible.a.01')	Synset('undesirable.s.02')		undesirable, unsuitable		not worthy of being chosen (especially as a spouse)
+Synset('ineligible.a.01')	Synset('unentitled.s.01')	a distinction to which he was unentitled	unentitled, unqualified		having no right or entitlement
+Synset('ineligible.a.01')	Synset('disqualified.s.02')	a disqualified player	disqualified		barred from competition for violation of rules
+Synset('impressive.a.01')	Synset('impressive.a.01')	an impressive ceremony	impressive	MISCELLANEOUS	making a strong or vivid impression
+Synset('impressive.a.01')	Synset('expansive.s.02')	an expansive lifestyle / in the grand manner / collecting on a grand scale / heroic undertakings	expansive, grand, heroic		of behavior that is impressive and ambitious in scale or scope
+Synset('impressive.a.01')	Synset('brilliant.s.03')	the brilliant court life at Versailles / a glorious work of art / magnificent cathedrals / the splendid coronation ceremony	brilliant, glorious, magnificent, splendid		characterized by grandeur
+Synset('impressive.a.01')	Synset('dramatic.s.02')	a dramatic sunset / a dramatic pause / a spectacular display of northern lights / it was a spectacular play / his striking good looks always created a sensation	dramatic, spectacular, striking		sensational in appearance or thrilling in effect
+Synset('impressive.a.01')	Synset('amazing.s.02')	New York is an amazing city / the Grand Canyon is an awe-inspiring sight / the awesome complexity of the universe / this sea, whose gently awful stirrings seem to speak of some hidden soul beneath"- Melville / Westminster Hall's awing majesty, so vast, so high, so silent	amazing, awe-inspiring, awesome, awful, awing		inspiring awe or admiration or wonder
+Synset('impressive.a.01')	Synset('astonishing.s.02')	such an enormous response was astonishing / an astounding achievement / the amount of money required was staggering / suffered a staggering defeat / the figure inside the boucle dress was stupefying	astonishing, astounding, staggering, stupefying		so surprisingly impressive as to stun or overwhelm
+Synset('impressive.a.01')	Synset('baronial.s.01')	a baronial mansion / an imposing residence / a noble tree / severe-looking policemen sat astride noble horses / stately columns	baronial, imposing, noble, stately		impressive in appearance
+Synset('impressive.a.01')	Synset('palatial.s.02')	palatial furnishings / a palatial yacht	palatial		suitable for or like a palace
+Synset('impressive.a.01')	Synset('mind-boggling.s.01')	a mind-boggling display / a mind-boggling puzzle	mind-boggling		intellectually or emotionally overwhelming
+Synset('impressive.a.01')	Synset('thundering.s.02')	a thundering success / the thundering silence of what was left unsaid	thundering		extraordinarily big or impressive
+Synset('impressive.a.01')	Synset('grandiose.s.01')		grandiose		impressive because of unnecessary largeness or grandeur; used to show disapproval
+Synset('impressive.a.01')	Synset('dazzling.s.01')	the skater's dazzling virtuosic leaps / these great best canvases still look as astonishing and as invitingly new as they did...when...his fulgurant popularity was in full growth"- Janet Flanner / adventures related...in a style both vivid and fulgurous"- Idwal Jones	dazzling, eye-popping, fulgurant, fulgurous		amazingly impressive; suggestive of the flashing of lightning
+Synset('impressive.a.01')	Synset('gallant.s.03')	a gallant pageant / lofty ships / majestic cities / proud alpine peaks	gallant, lofty, majestic, proud		having or displaying great dignity or nobility
+Synset('impressive.a.01')	Synset('signal.s.01')	the year saw one signal triumph for the Labour party	signal		notably out of the ordinary
+Synset('impressive.a.01')	Synset('formidable.s.01')	a formidable opponent / the challenge was formidable / had a formidable array of compositions to his credit / the formidable army of brains at the Prime Minister's disposal	formidable		extremely impressive in strength or excellence
+Synset('impressive.a.01')	Synset('arresting.s.01')	an arresting drawing of people turning into animals / a sensational concert--one never to be forgotten / a stunning performance	arresting, sensational, stunning		commanding attention
+Synset('impressive.a.01')	Synset('important-looking.s.01')		important-looking		impressive in appearance
+Synset('dirty.a.01')	Synset('dirty.a.01')	dirty unswept sidewalks / a child in dirty overalls / dirty slums / piles of dirty dishes / put his dirty feet on the clean sheet / wore an unclean shirt / mining is a dirty job / Cinderella did the dirty work while her sisters preened themselves	dirty, soiled, unclean	PERCEPTION	soiled or likely to soil with dirt or grime
+Synset('dirty.a.01')	Synset('greasy.s.02')	greasy coveralls / get rid of rubbish and oily rags	greasy, oily		smeared or soiled with grease or oil
+Synset('dirty.a.01')	Synset('travel-soiled.s.01')	travel-soiled clothes	travel-soiled, travel-stained		soiled from travel
+Synset('dirty.a.01')	Synset('feculent.s.01')		feculent		foul with waste matter
+Synset('dirty.a.01')	Synset('snotty.s.02')	a snotty nose / a house full of snot-nosed kids	snotty, snot-nosed		dirty with nasal discharge
+Synset('dirty.a.01')	Synset('begrimed.s.01')	a miner's begrimed face / dingy linen / grimy hands / grubby little fingers / a grungy kitchen	begrimed, dingy, grimy, grubby, grungy, raunchy		thickly covered with ingrained dirt or soot
+Synset('dirty.a.01')	Synset('unwashed.s.02')	a sink full of unwashed dishes	unwashed		not cleaned with or as if with soap and water
+Synset('dirty.a.01')	Synset('cobwebby.s.02')		cobwebby		covered with cobwebs
+Synset('dirty.a.01')	Synset('befouled.s.01')	a building befouled with soot / breathing air fouled and darkened with factory soot	befouled, fouled		made dirty or foul
+Synset('dirty.a.01')	Synset('flyblown.s.02')	a flyblown bar on the edge of town / a squalid overcrowded apartment in the poorest part of town / squalid living conditions / sordid shantytowns	flyblown, squalid, sordid		foul and run-down and repulsive
+Synset('dirty.a.01')	Synset('ratty.s.03')		ratty		dirty and infested with rats
+Synset('dirty.a.01')	Synset('maculate.s.02')		maculate		spotted or blotched
+Synset('dirty.a.01')	Synset('lousy.s.02')	burned their lousy clothes	lousy		infested with lice
+Synset('dirty.a.01')	Synset('scummy.s.02')	the scummy surface of the polluted pond	scummy		covered with scum
+Synset('dirty.a.01')	Synset('sooty.s.02')	a sooty chimney	sooty		covered with or as if with soot
+Synset('dirty.a.01')	Synset('mucky.s.02')	muddy boots / a mucky stable	mucky, muddy		dirty and messy; covered with mud or muck
+Synset('dirty.a.01')	Synset('filthy.s.01')	as filthy as a pigsty / a foul pond / a nasty pigsty of a room	filthy, foul, nasty		disgustingly dirty; filled or smeared with offensive matter
+Synset('dirty.a.01')	Synset('uncleanly.s.01')		uncleanly		habitually unclean
+Synset('dirty.a.01')	Synset('augean.s.01')		Augean		extremely filthy from long neglect
+Synset('dirty.a.01')	Synset('smudgy.s.01')	oil-smeared work clothes / hostile faces smirched by the grime and rust"- Henry Roth / ink-smudged fingers	smudgy		smeared with something that soils or stains; these words are often used in combination
+Synset('dirty.a.01')	Synset('buggy.s.02')		buggy		infested with bugs
+Synset('dirty.a.01')	Synset('dirty-faced.s.01')	a crowd of dirty-faced ragamuffins surrounded him	dirty-faced		having a dirty face
+Synset('dirty.a.01')	Synset('black.s.14')	with feet black from playing outdoors / his shirt was black within an hour	black, smutty		soiled with dirt or soot
+Synset('dirty.a.01')	Synset('bedraggled.s.01')	the beggar's bedraggled clothes / scarecrows in battered hats or draggled skirts	bedraggled, draggled		limp and soiled as if dragged in the mud
+Synset('dirty.a.01')	Synset('unswept.s.02')	unswept floors	unswept		not having been swept
+Synset('whole.a.01')	Synset('whole.a.01')	gave his whole attention / a whole wardrobe for the tropics / the whole hog / a whole week / the baby cried the whole trip home / a whole loaf of bread	whole	SPATIAL	including all components without exception; being one unit or constituting the full amount or extent or duration; complete
+Synset('whole.a.01')	Synset('entire.s.01')	an entire town devastated by an earthquake / gave full attention / a total failure	entire, full, total		constituting the full quantity or extent; complete
+Synset('whole.a.01')	Synset('livelong.s.01')	all the livelong day	livelong		(of time) constituting the full extent or duration
+Synset('whole.a.01')	Synset('full-length.s.01')	a full-length portrait	full-length		representing or accommodating the entire length
+Synset('whole.a.01')	Synset('full-page.s.01')	a full-page ad	full-page		occupying an entire page in a book or paper
+Synset('whole.a.01')	Synset('integral.s.02')	a local motion keepeth bodies integral"- Bacon / was able to keep the collection entire during his lifetime / fought to keep the union intact	integral, entire, intact		constituting the undiminished entirety; lacking nothing essential especially not damaged
+Synset('whole.a.01')	Synset('undivided.s.04')	an undivided interest in the property / a full share	undivided		not separated into parts or shares; constituting an undivided unit
+Synset('soft.a.03')	Synset('soft.a.03')	soft voices / soft music	soft	PERCEPTION	(of sound) relatively low in volume
+Synset('soft.a.03')	Synset('euphonious.s.02')	her euphonious Southern speech	euphonious		(of speech or dialect) pleasing in sound; not harsh or strident
+Synset('soft.a.03')	Synset('little.s.05')	a little voice / a still small voice	little, small		(of a voice) faint
+Synset('soft.a.03')	Synset('murmurous.s.01')	a murmurous brook / a soughing wind in the pines / a slow sad susurrous rustle like the wind fingering the pines"- R.P.Warren	murmurous, rustling, soughing, susurrous		characterized by soft sounds
+Synset('soft.a.03')	Synset('hushed.s.01')	hushed voices / muted trumpets / a subdued whisper / a quiet reprimand	hushed, muted, subdued, quiet		in a softened tone
+Synset('soft.a.03')	Synset('soft-footed.s.01')		soft-footed		sound of quiet gentle steps
+Synset('soft.a.03')	Synset('murmuring.s.01')	like murmuring waves / susurrant voices	murmuring, susurrant, whispering		making a low continuous indistinct sound
+Synset('soft.a.03')	Synset('low.s.03')	a low murmur / the low-toned murmur of the surf	low, low-toned		very low in volume
+Synset('soft.a.03')	Synset('dull.s.03')	the dull boom of distant breaking waves / muffled drums / the muffled noises of the street / muted trumpets	dull, muffled, muted, softened		being or made softer or less loud or clear
+Synset('soft.a.03')	Synset('gentle.s.03')	a gentle voice / a gentle nocturne	gentle		quiet and soothing
+Synset('soft.a.03')	Synset('soft-spoken.s.01')	she was always soft-spoken	soft-spoken		having a speaking manner that is not loud or harsh
+Synset('indispensable.a.01')	Synset('indispensable.a.01')	foods indispensable to good nutrition	indispensable	QUANTITY	not to be dispensed with; essential
+Synset('indispensable.a.01')	Synset('critical.s.04')	a critical element of the plan / critical medical supplies / vital for a healthy society / of vital interest	critical, vital		urgently needed; absolutely necessary
+Synset('poor.a.02')	Synset('poor.a.02')	deplored the gap between rich and poor countries / the proverbial poor artist living in a garret	poor	MISCELLANEOUS	having little money or few possessions
+Synset('poor.a.02')	Synset('destitute.s.01')		destitute, impoverished, indigent, necessitous, needy, poverty-stricken		poor enough to need help from others
+Synset('poor.a.02')	Synset('hard_up.s.01')		hard_up, impecunious, in_straitened_circumstances, penniless, penurious, pinched		not having enough money to pay for necessities
+Synset('poor.a.02')	Synset('moneyless.s.02')	virtually moneyless rural regions	moneyless		having no money
+Synset('poor.a.02')	Synset('broke.s.01')	`skint' is a British slang term	broke, bust, skint, stone-broke, stony-broke		lacking funds
+Synset('poor.a.02')	Synset('unprovided_for.s.01')	left his family unprovided for	unprovided_for		without income or means
+Synset('natural.a.03')	Synset('natural.a.03')	a perfectly natural explanation	natural	MISCELLANEOUS	existing in or in conformity with nature or the observable world; neither supernatural nor magical
+Synset('natural.a.03')	Synset('physical.s.04')	a reflex response to physical stimuli	physical		according with material things or natural laws (other than those peculiar to living matter)
+Synset('direct.a.03')	Synset('direct.a.03')	a direct question / a direct response / a direct approach	direct	MISCELLANEOUS	straightforward in means or manner or behavior or language or action
+Synset('direct.a.03')	Synset('no-nonsense.s.01')	the no-nonsense tones of a stern parent	no-nonsense		not tolerating irrelevancies
+Synset('direct.a.03')	Synset('square.s.05')	a square contradiction / he is not being as straightforward as it appears	square, straightforward, straight		without evasion or compromise
+Synset('direct.a.03')	Synset('brutal.s.04')	he spoke with brutal honesty	brutal		disagreeably direct and precise
+Synset('direct.a.03')	Synset('bluff.s.02')	a bluff but pleasant manner / a bluff and rugged natural leader	bluff		bluntly direct and outspoken but good-natured
+Synset('direct.a.03')	Synset('plain.s.05')	the plain and unvarnished truth / the unvarnished candor of old people and children	plain, unvarnished		free from any effort to soften to disguise
+Synset('direct.a.03')	Synset('pointed.s.02')	a pointed critique / a pointed allusion to what was going on / another pointed look in their direction	pointed		direct and obvious in meaning or reference; often unpleasant
+Synset('direct.a.03')	Synset('blunt.s.03')	blunt talking and straight shooting / a blunt New England farmer / I gave them my candid opinion / forthright criticism / a forthright approach to the problem / tell me what you think--and you may just as well be frank / it is possible to be outspoken without being rude / plainspoken and to the point / a point-blank accusation	blunt, candid, forthright, frank, free-spoken, outspoken, plainspoken, point-blank, straight-from-the-shoulder		characterized by directness in manner or speech; without subtlety or evasion
+Synset('direct.a.03')	Synset('flat-footed.s.04')	a flat-footed refusal	flat-footed		without reservation
+Synset('direct.a.03')	Synset('upfront.s.01')	he was upfront about his intentions	upfront		frank and honest
+Synset('direct.a.03')	Synset('man-to-man.s.01')	had a man-to-man talk about the facts of life	man-to-man		forthright and honest
+Synset('short.a.01')	Synset('short.a.01')	a short life / a short flight / a short holiday / a short story / only a few short months	short	SPATIAL	primarily temporal sense; indicating or being or seeming to be limited in duration
+Synset('short.a.01')	Synset('short-range.s.01')	a short-range policy	short-range		relating to the near future
+Synset('short.a.01')	Synset('fleeting.s.01')	a fleeting glance / fugitive hours / rapid momentaneous association of things that meet and pass / a momentary glimpse	fleeting, fugitive, momentaneous, momentary		lasting for a markedly brief time
+Synset('short.a.01')	Synset('abbreviated.s.02')	the abbreviated speech / her shortened life was clearly the result of smoking / an unsatisfactory truncated conversation	abbreviated, shortened, truncated		cut short in duration
+Synset('short.a.01')	Synset('brief.s.01')	a brief stay in the country	brief		of short duration or distance
+Synset('short.a.01')	Synset('clipped.s.02')	a clipped upper-class accent	clipped		(of speech) having quick short sounds
+Synset('short.a.01')	Synset('short-dated.s.01')		short-dated		of a gilt-edged security; having less than 5 years to run before redemption
+Synset('short.a.01')	Synset('short-run.s.01')	short-run planning / a short-term lease / short-term credit	short-run, short-term		relating to or extending over a limited period
+Synset('short.a.01')	Synset('short_and_sweet.s.01')	the conference was short and sweet / make your statement short and sweet	short_and_sweet		dealt with very quickly; to the point
+Synset('humorous.a.01')	Synset('humorous.a.01')	humorous stories / humorous cartoons / in a humorous vein	humorous, humourous	BEHAVIOR	full of or characterized by humor
+Synset('humorous.a.01')	Synset('buffoonish.s.01')	a buffoonish walk / a clownish face / a zany sense of humor	buffoonish, clownish, clownlike, zany		like a clown
+Synset('humorous.a.01')	Synset('gilbertian.s.02')	a Gilbertian world people with foundlings and changelings"- T.C.Worsley	Gilbertian		wildly comic and improbable as in Gilbert and Sullivan operas
+Synset('humorous.a.01')	Synset('witty.s.01')	his sermons were unpredictably witty and satirical as well as eloquent	witty		combining clever conception and facetious expression
+Synset('humorous.a.01')	Synset('seriocomic.s.01')	a seriocomic novel	seriocomic, seriocomical		mixing the serious with the comic with comic predominating
+Synset('humorous.a.01')	Synset('droll.s.01')	a droll little man with a quiet tongue-in-cheek kind of humor	droll		comical in an odd or whimsical manner
+Synset('humorous.a.01')	Synset('dry.s.02')	dry humor / an ironic remark often conveys an intended meaning obliquely / an ironic novel / an ironical smile / with a wry Scottish wit	dry, ironic, ironical, wry		humorously sarcastic or mocking
+Synset('humorous.a.01')	Synset('bantering.s.01')	a bantering tone / facetious remarks / tongue-in-cheek advice	bantering, facetious, tongue-in-cheek		cleverly amusing in tone
+Synset('humorous.a.01')	Synset('hilarious.s.01')	hilarious broad comedy / a screaming farce / uproarious stories	hilarious, screaming, uproarious		marked by or causing boisterous merriment or convulsive laughter
+Synset('humorous.a.01')	Synset('killing.s.01')	a killing joke / sidesplitting antics	killing, sidesplitting		very funny
+Synset('humorous.a.01')	Synset('slapstick.s.01')	slapstick style of humor	slapstick		characterized by horseplay and physical action
+Synset('humorous.a.01')	Synset('jesting.s.01')		jesting, jocose, jocular, joking		characterized by jokes and good humor
+Synset('humorous.a.01')	Synset('farcical.s.01')	the wild farcical exuberance of a clown / ludicrous green hair	farcical, ludicrous, ridiculous		broadly or extravagantly humorous; resembling farce
+Synset('humorous.a.01')	Synset('waggish.s.01')	Muskrat Castle as the house has been facetiously named by some waggish officer"- James Fenimore Cooper	waggish		witty or joking
+Synset('humorous.a.01')	Synset('tragicomic.s.03')	her life...presented itself to me as a tragicomical adventure"--Joseph Conrad	tragicomic, tragicomical		having pathetic as well as ludicrous characteristics
+Synset('humorous.a.01')	Synset('amusing.s.02')	an amusing film with a steady stream of pranks and pratfalls / an amusing fellow / a comic hat / a comical look of surprise / funny stories that made everybody laugh / a very funny writer / it would have been laughable if it hadn't hurt so much / a mirthful experience / risible courtroom antics	amusing, comic, comical, funny, laughable, mirthful, risible		arousing or provoking laughter
+Synset('anatomic.a.01')	Synset('anatomic.a.01')	anatomical features	anatomic, anatomical	BODY	of or relating to the structure of the body
+Synset('prepared.a.01')	Synset('prepared.a.01')	a prepared statement / be prepared for emergencies	prepared	MISCELLANEOUS	made ready or fit or suitable beforehand
+Synset('prepared.a.01')	Synset('spread.s.02')	a table spread with food	spread		prepared or arranged for a meal; especially having food set out
+Synset('prepared.a.01')	Synset('precooked.s.01')	frozen precooked meals from the supermarket	precooked		cooked partially or completely beforehand
+Synset('prepared.a.01')	Synset('oven-ready.s.01')		oven-ready		prepared before sale and ready to be cooked
+Synset('prepared.a.01')	Synset('braced.s.01')	he stood to attention with his shoulders braced	braced		positioned so as to be ready for confrontation or danger
+Synset('prepared.a.01')	Synset('preconditioned.s.01')	a surface preconditioned to receive paint / customers preconditioned to buy a product	preconditioned		having already been put into a suitable condition
+Synset('prepared.a.01')	Synset('ready.s.04')	dinner is ready	ready		made suitable and available for immediate use
+Synset('prepared.a.01')	Synset('embattled.s.01')	an embattled city	embattled		prepared for battle
+Synset('prepared.a.01')	Synset('up.s.05')	he was up on his homework / had to be up for the game	up		(usually followed by `on' or `for') in readiness
+Synset('prepared.a.01')	Synset('processed.s.01')	prepared ergot / processed cheeses are easy to spread	processed		subjected to a special process or treatment
+Synset('prepared.a.01')	Synset('equipped.s.03')	equipped for service in the Arctic	equipped, fitted_out		prepared with proper equipment
+Synset('negative.a.01')	Synset('negative.a.01')	a negative outlook on life / a colorless negative personality / a negative evaluation / a negative reaction to an advertising campaign	negative	MISCELLANEOUS	characterized by or displaying negation or denial or opposition or resistance; having no positive features
+Synset('negative.a.01')	Synset('antagonistic.s.01')		antagonistic, counter		indicating opposition or resistance
+Synset('negative.a.01')	Synset('perverse.s.01')	took perverse satisfaction in foiling her plans	perverse		marked by a disposition to oppose and contradict
+Synset('forward.a.02')	Synset('forward.a.02')	a forward child badly in need of discipline	forward	BEHAVIOR	used of temperament or behavior; lacking restraint or modesty
+Synset('forward.a.02')	Synset('bumptious.s.01')		bumptious, self-assertive		offensively self-assertive
+Synset('forward.a.02')	Synset('overfamiliar.s.01')	young women disliked the overfamiliar tone he took with them	overfamiliar		taking undue liberties
+Synset('forward.a.02')	Synset('brash.s.01')	a brash newcomer disputed the age-old rules for admission to the club / a nervy thing to say	brash, cheeky, nervy		offensively bold
+Synset('forward.a.02')	Synset('assumptive.s.01')	an assumptive person / on a subject like this it would be too assuming for me to decide / the duchess would not put up with presumptuous servants	assumptive, assuming, presumptuous		excessively forward
+Synset('forward.a.02')	Synset('fresh.s.12')	don't be fresh with me / impertinent of a child to lecture a grownup / an impudent boy given to insulting strangers / Don't get wise with me!	fresh, impertinent, impudent, overbold, smart, saucy, sassy, wise		improperly forward or bold
+Synset('unsocial.a.01')	Synset('unsocial.a.01')	the unsocial disposition to neglect one's neighbors	unsocial	BEHAVIOR	not seeking or given to association; being or living without companions
+Synset('unsocial.a.01')	Synset('alone.s.01')	could be alone in a crowded room / was alone with her thoughts / I want to be alone	alone		isolated from others
+Synset('unsocial.a.01')	Synset('lone.s.02')	a lone wolf / a lonely existence / a man of a solitary disposition / a solitary walk	lone, lonely, solitary		characterized by or preferring solitude
+Synset('unsocial.a.01')	Synset('recluse.s.01')	lived an unsocial reclusive life	recluse, reclusive, withdrawn		withdrawn from society; seeking solitude
+Synset('unsocial.a.01')	Synset('asocial.s.01')	bears are asocial secretive animals / are you asocial or do you just enjoy living in the Antarctic?	asocial		given to avoiding association with others
+Synset('unsocial.a.01')	Synset('antisocial.s.02')	criminal behavior or conduct that violates the rights of other individuals is antisocial / crimes...and other asocial behavior / an antisocial deed	antisocial, asocial		hostile to or disruptive of normal standards of social behavior
+Synset('wholesome.a.01')	Synset('wholesome.a.01')	wholesome attitude / wholesome appearance / wholesome food	wholesome	MISCELLANEOUS	conducive to or characteristic of physical or moral well-being
+Synset('wholesome.a.01')	Synset('hearty.s.02')	a hearty meal / good solid food / ate a substantial breakfast / four square meals a day	hearty, satisfying, solid, square, substantial		providing abundant nourishment
+Synset('wholesome.a.01')	Synset('organic.s.04')	organic eggs / organic vegetables / organic chicken	organic		of or relating to foodstuff grown or raised without synthetic fertilizers or pesticides or hormones
+Synset('wholesome.a.01')	Synset('salubrious.s.02')	not the most salubrious campsite / one of the less salubrious suburbs	salubrious		favorable to health of mind or body
+Synset('wholesome.a.01')	Synset('heart-healthy.s.01')		heart-healthy		of foods that are low in fats and sodium and other ingredients that may foster heart disease
+Synset('wholesome.a.01')	Synset('healthy.s.03')	a healthy diet / clean healthy air / plenty of healthy sleep / healthy and normal outlets for youthful energy / the salubrious mountain air and water"- C.B.Davis / carrots are good for you	healthy, salubrious, good_for_you		promoting health; healthful
+Synset('wholesome.a.01')	Synset('alimentary.s.01')	good nourishing stew	alimentary, alimental, nourishing, nutrient, nutritious, nutritive		of or providing nourishment
+Synset('alike.a.01')	Synset('alike.a.01')	all politicians are alike / they looked utterly alike / friends are generally alike in background and taste	alike, similar, like	MISCELLANEOUS	having the same or similar characteristics
+Synset('unreal.a.01')	Synset('unreal.a.01')	ghosts and other unreal entities / unreal propaganda serving as news	unreal	MISCELLANEOUS	lacking in reality or substance or genuineness; not corresponding to acknowledged facts or criteria
+Synset('unreal.a.01')	Synset('fabled.s.01')	the fabled Paul Bunyan and his blue ox / legendary exploits of Jesse James	fabled, legendary		celebrated in fable or legend
+Synset('unreal.a.01')	Synset('make-believe.s.01')	the make-believe world of theater / play money / dangling their legs in the water to catch pretend fish	make-believe, pretend		imagined as in a play
+Synset('unreal.a.01')	Synset('illusive.s.01')	illusive hopes of finding a better job / Secret activities offer presidents the alluring but often illusory promise that they can achieve foreign policy goals without the bothersome debate and open decision that are staples of democracy	illusive, illusory		based on or having the nature of an illusion
+Synset('unreal.a.01')	Synset('fabulous.s.02')	mythical centaurs / the fabulous unicorn	fabulous, mythic, mythical, mythologic, mythological		based on or told of in traditional stories; lacking factual basis or historical validity
+Synset('unreal.a.01')	Synset('fanciful.s.02')	the falsehood about some fanciful secret treaties"- F.D.Roosevelt / a small child's imaginary friends / to create a notional world for oneself	fanciful, imaginary, notional		not based on fact; unreal
+Synset('unreal.a.01')	Synset('envisioned.s.01')	the glory of his envisioned future / the snow-covered Alps pictured in her imagination / the visualized scene lacked the ugly details of real life	envisioned, pictured, visualized, visualised		seen in the mind as a mental image
+Synset('unreal.a.01')	Synset('fantastic.s.04')	fantastic figures with bulbous heads the circumference of a bushel"- Nathaniel Hawthorne	fantastic, fantastical		existing in fancy only
+Synset('unreal.a.01')	Synset('fabricated.s.01')	a fabricated excuse for his absence / a fancied wrong / a fictional character	fabricated, fancied, fictional, fictitious		formed or conceived by the imagination
+Synset('unreal.a.01')	Synset('hallucinatory.s.01')	the bizarre hallucinatory dreams of fever"- Jean Stafford	hallucinatory		characterized by or characteristic of hallucination
+Synset('unreal.a.01')	Synset('dreamed.s.01')	his dreamed symphony that would take the world of music by storm	dreamed		conceived of or imagined or hoped for
+Synset('unreal.a.01')	Synset('eye-deceiving.s.01')	the visual deception of trompe-l'oeil art	eye-deceiving, trompe-l'oeil		creating the illusion of seeing reality
+Synset('unreal.a.01')	Synset('illusional.s.01')	illusionary stage effects	illusional, illusionary		marked by or producing illusion
+Synset('holy.a.01')	Synset('holy.a.01')		holy	SOCIAL	belonging to or derived from or associated with a divine power
+Synset('holy.a.01')	Synset('consecrated.s.02')	a consecrated church / the sacred mosque / sacred elephants / sacred bread and wine / sanctified wine	consecrated, sacred, sanctified		made or declared or believed to be holy; devoted to a deity or some religious ceremony or use
+Synset('holy.a.01')	Synset('beatified.s.01')		beatified, blessed		Roman Catholic; proclaimed one of the blessed and thus worthy of veneration
+Synset('holy.a.01')	Synset('blessed.s.02')	the Blessed Trinity	Blessed		worthy of worship
+Synset('holy.a.01')	Synset('hallowed.s.01')	the sacred name of Jesus / Jerusalem's hallowed soil	hallowed, sacred		worthy of religious veneration
+Synset('delicate.a.01')	Synset('delicate.a.01')	a delicate violin passage / delicate china / a delicate flavor / the delicate wing of a butterfly	delicate	SUBSTANCE	exquisitely fine and subtle and pleasing; susceptible to injury
+Synset('delicate.a.01')	Synset('fragile.s.02')	she has the fragile beauty of youth	fragile		vulnerably delicate
+Synset('delicate.a.01')	Synset('pastel.s.01')	faded pastel charms of the naive music	pastel		lacking in body or vigor
+Synset('delicate.a.01')	Synset('dainty.s.02')	a dainty teacup / an exquisite cameo	dainty, exquisite		delicately beautiful
+Synset('delicate.a.01')	Synset('tender.s.08')	tender green shoots	tender		(of plants) not hardy; easily killed by adverse growing condition
+Synset('delicate.a.01')	Synset('light-handed.s.01')	the translation is...light-handed...and generally unobtrusive"- New Yorker	light-handed		having a metaphorically delicate touch
+Synset('delicate.a.01')	Synset('overdelicate.s.01')	an overdelicate digestive system	overdelicate		extremely delicate
+Synset('delicate.a.01')	Synset('ethereal.s.04')	this smallest and most ethereal of birds / gossamer shading through his playing	ethereal, gossamer		characterized by unusual lightness and delicacy
+Synset('crosswise.a.01')	Synset('crosswise.a.01')	a crosswise street / the crosswise dimension	crosswise	SPATIAL	lying or extending across the length of a thing or in a cross direction
+Synset('crosswise.a.01')	Synset('cross-section.s.01')	cross-section views of the neck	cross-section, cross-sectional		representing a plane made by cutting across something at right angles to its length
+Synset('crosswise.a.01')	Synset('cross.s.01')	cross members should be all steel / from the transverse hall the stairway ascends gracefully / transversal vibrations / transverse colon	cross, transverse, transversal, thwartwise		extending or lying across; in a crosswise direction; at right angles to the long axis
+Synset('demanding.a.01')	Synset('demanding.a.01')	found the job very demanding / a baby can be so demanding	demanding	MISCELLANEOUS	requiring more than usually expected or thought due; especially great patience and effort and skill
+Synset('demanding.a.01')	Synset('exigent.s.02')	an exacting job / became more exigent over his pronunciation	exigent, exacting		requiring precise accuracy
+Synset('demanding.a.01')	Synset('needy.s.02')		needy		demanding or needing attention, affection, or reassurance to an excessive degree
+Synset('demanding.a.01')	Synset('rigorous.s.02')	rigorous discipline / tight security / stringent safety measures	rigorous, stringent, tight		demanding strict attention to rules and procedures
+Synset('demanding.a.01')	Synset('hard-to-please.s.01')	was very hard to please	hard-to-please, hard_to_please		(of persons) "his father was a hard-to-please taskmaster"
+Synset('demanding.a.01')	Synset('stern.s.03')	an exacting instructor / a stern disciplinarian / strict standards	stern, strict, exacting		severe and unremitting in making demands
+Synset('north.a.01')	Synset('north.a.01')	artists like north light / the north portico	north	SPATIAL	situated in or facing or moving toward or coming from the north
+Synset('north.a.01')	Synset('northernmost.s.01')	Alaska is our northernmost state	northernmost, northmost		situated farthest north
+Synset('north.a.01')	Synset('northeastern.s.01')	the northeasterly part of the island	northeastern, northeasterly, northeast		situated in or oriented toward the northeast
+Synset('north.a.01')	Synset('northeastward.s.01')		northeastward		toward the northeast
+Synset('north.a.01')	Synset('north-central.s.02')	the north-central part of Russia	north-central		situated in the northern part of a centrally located area in some geographical region
+Synset('north.a.01')	Synset('northerly.s.02')	the north wind doth blow / a northern snowstorm / the winds are northerly	northerly, northern		coming from the north; used especially of wind
+Synset('north.a.01')	Synset('northerly.s.01')	the northern suburbs / going in a northerly direction	northerly, northern		situated in or oriented toward the north
+Synset('north.a.01')	Synset('northwesterly.s.01')	northwesterly winds	northwesterly, northwest		coming from the northwest
+Synset('north.a.01')	Synset('northwestward.s.01')		northwestward		toward the northwest
+Synset('north.a.01')	Synset('northbound.s.01')	the northbound lane / we took the north train / the northward flow of traffic	northbound, northward		moving toward the north
+Synset('north.a.01')	Synset('northeasterly.s.01')	northeasterly winds	northeasterly, northeast		coming from the northeast
+Synset('north.a.01')	Synset('northwestern.s.01')		northwestern, northwesterly, northwest		situated in or oriented toward the northwest
+Synset('unlike.a.01')	Synset('unlike.a.01')	for twins they are very unlike / people are profoundly different	unlike, dissimilar, different	MISCELLANEOUS	marked by dissimilarity
+Synset('figurative.a.01')	Synset('figurative.a.01')	figurative language	figurative, nonliteral	MISCELLANEOUS	(used of the meanings of words or text) not literal; using figures of speech
+Synset('figurative.a.01')	Synset('extended.s.04')	`hot off the press' shows an extended sense of `hot'	extended		beyond the literal or primary sense
+Synset('figurative.a.01')	Synset('metaphorical.s.01')	a metaphorical expression / metaphoric language	metaphorical, metaphoric		expressing one thing in terms normally denoting another
+Synset('figurative.a.01')	Synset('poetic.s.02')	Turner's vision of the rainbow...was poetic	poetic		characterized by romantic imagery
+Synset('figurative.a.01')	Synset('analogical.s.01')	the analogical use of a metaphor	analogical		expressing, composed of, or based on an analogy
+Synset('figurative.a.01')	Synset('metonymic.s.01')	to say `he spent the evening reading Shakespeare' is metonymic because it substitutes the author himself for the author's works	metonymic, metonymical		using the name of one thing for that of another with which it is closely associated
+Synset('figurative.a.01')	Synset('tropical.s.03')		tropical		characterized by or of the nature of a trope or tropes; changed from its literal sense
+Synset('figurative.a.01')	Synset('synecdochic.s.01')	to use `hand' for `worker' or `ten sail' for `ten ships' or `steel' for `sword' is to use a synecdochic figure of speech	synecdochic, synecdochical		using the name of a part for that of the whole or the whole for the part; or the special for the general or the general for the special; or the material for the thing made of it
+Synset('narrow.a.01')	Synset('narrow.a.01')	a narrow bridge / a narrow line across the page	narrow	SPATIAL	not wide
+Synset('narrow.a.01')	Synset('constricting.s.01')		constricting, constrictive, narrowing		(of circumstances) tending to constrict freedom
+Synset('narrow.a.01')	Synset('narrowed.s.01')	his narrowed eyes	narrowed		reduced in size as by squeezing together
+Synset('narrow.a.01')	Synset('straplike.s.01')	straplike leaves	straplike		long and narrow like a strap
+Synset('narrow.a.01')	Synset('narrow-mouthed.s.01')		narrow-mouthed		having a narrow mouth
+Synset('narrow.a.01')	Synset('strait.s.01')	strait is the gate	strait		narrow
+Synset('narrow.a.01')	Synset('slender.s.02')	a thin line across the page	slender, thin		very narrow
+Synset('narrow.a.01')	Synset('tapered.s.01')	long tapering fingers / trousers with tapered legs	tapered, tapering, narrowing		becoming gradually narrower
+Synset('perfect.a.01')	Synset('perfect.a.01')	a perfect circle / a perfect reproduction / perfect happiness / perfect manners / a perfect specimen / a perfect day	perfect	BEHAVIOR	being complete of its kind and without defect or blemish
+Synset('perfect.a.01')	Synset('ideal.s.01')		ideal		conforming to an ultimate standard of perfection or excellence; embodying an ideal
+Synset('perfect.a.01')	Synset('clean.s.05')	a clean voting record / a clean driver's license	clean		(of a record) having no marks of discredit or offense
+Synset('perfect.a.01')	Synset('idealized.s.01')		idealized, idealised		exalted to an ideal perfection or excellence
+Synset('perfect.a.01')	Synset('errorless.s.01')	an errorless baseball game	errorless		free from error
+Synset('perfect.a.01')	Synset('pluperfect.s.01')	he spoke with pluperfect precision	pluperfect		more than perfect
+Synset('perfect.a.01')	Synset('clear.s.13')	a clear perfect diamond / the clear complexion of a healthy young woman	clear		free from flaw or blemish or impurity
+Synset('perfect.a.01')	Synset('perfectible.s.01')		perfectible		capable of becoming or being made perfect
+Synset('perfect.a.01')	Synset('mint.s.01')	in mint condition	mint		as if new
+Synset('perfect.a.01')	Synset('complete.s.02')	a complete gentleman / consummate happiness / a consummate performance	complete, consummate		perfect and complete in every respect; having all necessary qualities
+Synset('perfect.a.01')	Synset('down.s.05')	had his algebra problems down	down, down_pat, mastered		understood perfectly
+Synset('perfect.a.01')	Synset('cold.s.05')	had her lines cold before rehearsals started	cold		marked by errorless familiarity
+Synset('perfect.a.01')	Synset('faultless.s.01')	faultless logic / speaks impeccable French / timing and technique were immaculate / an immaculate record	faultless, immaculate, impeccable		without fault or error
+Synset('perfect.a.01')	Synset('uncorrupted.s.01')	uncorrupted English / learn to speak pure English undefiled"- Van Wyck Brooks	uncorrupted, undefiled		(of language) not having its purity or excellence debased
+Synset('perfect.a.01')	Synset('idyllic.s.01')	an idyllic spot for a picnic	idyllic		excellent and delightful in all respects
+Synset('perfect.a.01')	Synset('flawless.s.01')	a flawless gemstone	flawless, unflawed		without a flaw
+Synset('finished.a.02')	Synset('finished.a.02')	are you finished? / gave me the finished manuscript	finished	TEMPORAL	ended or brought to an end
+Synset('finished.a.02')	Synset('done_with.s.01')	he was through with school and he was through with family"- John Dos Passos / done with gambling / done with drinking	done_with, through_with		having no further concern with
+Synset('finished.a.02')	Synset('fin_de_siecle.s.01')	fin de siecle art	fin_de_siecle		relating to or characteristic of the end of a century (especially the end of the 19th century)
+Synset('finished.a.02')	Synset('done.s.01')	certain to make history before he's done / it's a done deed / after the treatment, the patient is through except for follow-up / almost through with his studies	done, through, through_with		having finished or arrived at completion
+Synset('finished.a.02')	Synset('complete.s.05')	the harvesting was complete / the affair is over, ended, finished / the abruptly terminated interview	complete, concluded, ended, over, all_over, terminated		having come or been brought to a conclusion
+Synset('finished.a.02')	Synset('up.s.08')	time is up	up		used up
+Synset('fat.a.01')	Synset('fat.a.01')	he hadn't remembered how fat she was	fat	BODY	having an (over)abundance of flesh
+Synset('fat.a.01')	Synset('dumpy.s.03')		dumpy, podgy, pudgy, tubby, roly-poly		short and plump
+Synset('fat.a.01')	Synset('double-chinned.s.01')		double-chinned, jowly, loose-jowled		having sagging folds of flesh beneath the chin or lower jaw
+Synset('fat.a.01')	Synset('gross.s.03')	a bald porcine old man	gross, porcine		repellently fat
+Synset('fat.a.01')	Synset('abdominous.s.01')		abdominous, paunchy, potbellied		having a large belly
+Synset('fat.a.01')	Synset('chubby.s.01')	a chubby child / pleasingly plump	chubby, embonpoint, plump		sufficiently fat so as to have a pleasing fullness of figure;
+Synset('fat.a.01')	Synset('blubbery.s.01')	blubber cheeks / blubber lips / a coarse blubbery individual	blubbery		swollen with fat
+Synset('fat.a.01')	Synset('portly.s.01')	men are portly and women are stout	portly, stout		euphemisms for `fat'
+Synset('fat.a.01')	Synset('corpulent.s.01')	a weighty man	corpulent, obese, weighty, rotund		excessively fat
+Synset('fat.a.01')	Synset('fleshy.s.01')		fleshy, heavy, overweight		usually describes a large person who is fat but has a large frame to carry it
+Synset('fat.a.01')	Synset('buxom.s.02')	a generation ago...buxom actresses were popular"- Robt.A.Hamilton	buxom, zaftig, zoftig		(of a female body) healthily plump and vigorous;
+Synset('fat.a.01')	Synset('fattish.s.01')		fattish		somewhat fat
+Synset('pleased.a.01')	Synset('pleased.a.01')		pleased	FEELING	experiencing or manifesting pleasure
+Synset('pleased.a.01')	Synset('bucked_up.s.01')	felt bucked up by his success	bucked_up, encouraged		inspired with confidence
+Synset('pleased.a.01')	Synset('gratified.s.01')		gratified		having received what was desired
+Synset('pleased.a.01')	Synset('amused.s.01')	We are not amused" -Queen Victoria	amused, diverted, entertained		pleasantly occupied
+Synset('pleased.a.01')	Synset('chuffed.s.01')	I'm chuffed to have won	chuffed		very pleased
+Synset('pleased.a.01')	Synset('delighted.s.01')		delighted		greatly pleased
+Synset('mature.a.03')	Synset('mature.a.03')	a mature cell	mature	MISCELLANEOUS	having reached full natural growth or development
+Synset('mature.a.03')	Synset('prime.s.05')	our manhood's prime vigor"- Robert Browning	prime, meridian		being at the best stage of development
+Synset('mature.a.03')	Synset('fruiting.s.01')		fruiting		capable of bearing fruit
+Synset('mature.a.03')	Synset('abloom.s.01')	flowering spring trees	abloom, efflorescent		bursting into flower
+Synset('mature.a.03')	Synset('marriageable.s.01')		marriageable, nubile		of girls or women who are eligible to marry
+Synset('mature.a.03')	Synset('overblown.s.02')	overblown roses	overblown		past the stage of full bloom
+Synset('mature.a.03')	Synset('adult.s.01')	an adult animal / a grown woman	adult, big, full-grown, fully_grown, grown, grownup		(of animals) fully developed
+Synset('mature.a.03')	Synset('full-blown.s.01')	a full-blown rose	full-blown, matured		fully ripe; at the height of bloom
+Synset('mature.a.03')	Synset('headed.s.04')	headed cabbages	headed		of leafy vegetables; having formed into a head
+Synset('combined.a.01')	Synset('combined.a.01')		combined	MISCELLANEOUS	made or joined or united into one
+Synset('combined.a.01')	Synset('rolled_into_one.s.01')		rolled_into_one		made up of several components combined into a single entity
+Synset('combined.a.01')	Synset('occluded.s.02')	the sorbed oil mass / large volumes of occluded hydrogen in palladium	occluded, sorbed		(of a substance) taken into and retained in another substance
+Synset('combined.a.01')	Synset('compounded.s.01')		compounded		combined into or constituting a chemical compound
+Synset('combined.a.01')	Synset('conglomerate.s.01')	the conglomerate peoples of New England	conglomerate		composed of heterogeneous elements gathered into a mass
+Synset('combined.a.01')	Synset('one.s.06')	three chemicals combining into one solution	one		being a single entity made by combining separate components
+Synset('settled.a.01')	Synset('settled.a.01')	with details of the wedding settled she could now sleep at night	settled	MISCELLANEOUS	established or decided beyond dispute or doubt
+Synset('settled.a.01')	Synset('appointed.s.03')	at the time appointed (or the appointed time")	appointed, decreed, ordained, prescribed		fixed or established especially by order or command
+Synset('settled.a.01')	Synset('firm.s.04')	a firm contract / a firm offer	firm		not subject to revision or change
+Synset('settled.a.01')	Synset('determined.s.04')	date and place are already determined / the dictated terms of surrender / the time set for the launching	determined, dictated, set		determined or decided upon as by an authority
+Synset('settled.a.01')	Synset('deterministic.s.01')		deterministic		an inevitable consequence of antecedent sufficient causes
+Synset('settled.a.01')	Synset('accomplished.s.03')	that smoking causes health problems is an accomplished fact	accomplished, effected, established		settled securely and unconditionally
+Synset('settled.a.01')	Synset('preconcerted.s.01')	following preconcerted plans	preconcerted		previously arranged or agreed on
+Synset('international.a.01')	Synset('international.a.01')	international affairs / an international agreement / international waters	international	SOCIAL	concerning or belonging to all or at least two or more nations
+Synset('international.a.01')	Synset('multinational.s.01')	multinational corporations / transnational terrorist networks	multinational, transnational		involving or operating in several nations or nationalities
+Synset('international.a.01')	Synset('supranational.s.01')	a supranational economy / supranational federations	supranational		transcending established national boundaries or spheres of interest
+Synset('international.a.01')	Synset('internationalist.s.01')		internationalist, internationalistic		influenced by or advocating internationalism
+Synset('international.a.01')	Synset('global.s.01')	global war / global monetary policy / neither national nor continental but planetary / a world crisis / of worldwide significance	global, planetary, world, worldwide, world-wide		involving the entire earth; not limited or provincial in scope
+Synset('unhealthy.a.01')	Synset('unhealthy.a.01')	unhealthy ulcers	unhealthy	FEELING	not in or exhibiting good health in body or mind
+Synset('unhealthy.a.01')	Synset('angry.s.03')	an angry sore	angry		severely inflamed and painful
+Synset('unhealthy.a.01')	Synset('cankerous.s.01')		cankerous, ulcerated, ulcerous		having an ulcer or canker
+Synset('unhealthy.a.01')	Synset('edematous.s.01')		edematous, dropsical		swollen with an excessive accumulation of fluid
+Synset('unhealthy.a.01')	Synset('varicose.s.01')	varicose veins	varicose		abnormally swollen or knotty
+Synset('unhealthy.a.01')	Synset('dehydrated.s.01')	fever resulted from becoming dehydrated / was dehydrated after the marathon	dehydrated		suffering from excessive loss of water from the body
+Synset('unhealthy.a.01')	Synset('foaming.s.02')	the rabid animal's frothing mouth	foaming, foamy, frothing		producing or covered with lathery sweat or saliva from exhaustion or disease
+Synset('unhealthy.a.01')	Synset('inflamed.s.01')	eyes inflamed with crying	inflamed		resulting from inflammation; hot and swollen and reddened
+Synset('unhealthy.a.01')	Synset('bloodshot.s.01')	bloodshot eyes	bloodshot		(of an eye) reddened as a result of locally congested blood vessels; inflamed
+Synset('unhealthy.a.01')	Synset('arthritic.s.01')	my creaky old joints / rheumy with age and grief	arthritic, creaky, rheumatic, rheumatoid, rheumy		of or pertaining to arthritis
+Synset('unhealthy.a.01')	Synset('membranous.s.02')	membranous gastritis	membranous, membrane-forming		characterized by formation of a membrane (or something resembling a membrane)
+Synset('unhealthy.a.01')	Synset('enlarged.s.03')	enlarged joints	enlarged		larger than normal
+Synset('unhealthy.a.01')	Synset('sallow.s.01')		sallow, sickly		unhealthy looking
+Synset('unhealthy.a.01')	Synset('ingrowing.s.01')	an ingrown toenail	ingrowing, ingrown		growing abnormally into the flesh
+Synset('unhealthy.a.01')	Synset('chilblained.s.01')	her poor chilblained hands	chilblained		having chilblains
+Synset('unhealthy.a.01')	Synset('bad.s.10')	has a bad back / a bad heart / bad teeth / an unsound limb / unsound teeth	bad, unfit, unsound		physically unsound or diseased
+Synset('unhealthy.a.01')	Synset('carbuncled.s.01')		carbuncled, carbuncular		afflicted with or resembling a carbuncle
+Synset('unhealthy.a.01')	Synset('mental.s.05')	a mental patient / mental illness	mental		affected by a disorder of the mind
+Synset('unhealthy.a.01')	Synset('sore-eyed.s.01')		sore-eyed		having sore eyes; suffering from pinkeye or conjunctivitis
+Synset('unhealthy.a.01')	Synset('sunburned.s.01')		sunburned, sunburnt		suffering from overexposure to direct sunlight
+Synset('unhealthy.a.01')	Synset('inflammatory.s.01')	an inflammatory process / an inflammatory response	inflammatory		characterized or caused by inflammation
+Synset('unhealthy.a.01')	Synset('colicky.s.01')		colicky, flatulent, gassy		suffering from excessive gas in the alimentary canal
+Synset('unhealthy.a.01')	Synset('diseased.s.01')	diseased tonsils / a morbid growth / pathologic tissue / pathological bodily processes	diseased, morbid, pathologic, pathological		caused by or altered by or manifesting disease or pathology
+Synset('unhealthy.a.01')	Synset('asthmatic.s.01')		asthmatic, wheezing, wheezy		relating to breathing with a whistling sound
+Synset('unhealthy.a.01')	Synset('gangrenous.s.01')		gangrenous, mortified		suffering from tissue death
+Synset('unhealthy.a.01')	Synset('windburned.s.01')		windburned, windburnt		suffering from windburn
+Synset('unhealthy.a.01')	Synset('puffy.s.02')	hungry children with bloated stomachs / he had a grossly distended stomach / eyes with puffed (or puffy) lids / swollen hands / tumescent tissue / puffy tumid flesh	puffy, intumescent, tumescent, tumid, turgid		abnormally distended especially by fluids or gas
+Synset('unhealthy.a.01')	Synset('proinflammatory.s.01')		proinflammatory, pro-inflammatory		tending to cause inflammation
+Synset('unhealthy.a.01')	Synset('carious.s.01')		carious		(of teeth) affected with cavities or decay
+Synset('unhealthy.a.01')	Synset('caseous.s.01')		caseous		of damaged or necrotic tissue; cheeselike
+Synset('unhealthy.a.01')	Synset('jaundiced.s.01')		jaundiced, icteric, yellow		affected by jaundice which causes yellowing of skin etc
+Synset('unhealthy.a.01')	Synset('blebby.s.01')		blebby, blistery		covered with small blisters
+Synset('unhealthy.a.01')	Synset('cytomegalic.s.01')		cytomegalic		of or relating to or characterized by greatly enlarged cells
+Synset('playful.a.01')	Synset('playful.a.01')	playful children just let loose from school	playful	BEHAVIOR	full of fun and high spirits
+Synset('playful.a.01')	Synset('arch.s.03')	teasing and worrying with impish laughter / a wicked prank	arch, impish, implike, mischievous, pixilated, prankish, puckish, wicked		naughtily or annoyingly playful
+Synset('playful.a.01')	Synset('elfin.s.04')	perpetrated a practical joke with elfin delight / elvish tricks	elfin, elfish, elvish		usually good-naturedly mischievous
+Synset('playful.a.01')	Synset('coltish.s.01')	frolicsome students celebrated their graduation with parties and practical jokes	coltish, frolicsome, frolicky, rollicking, sportive		given to merry frolicking
+Synset('playful.a.01')	Synset('mocking.s.02')	his face wore a somewhat quizzical almost impertinent air"- Lawrence Durrell	mocking, teasing, quizzical		playfully vexing (especially by ridicule)
+Synset('playful.a.01')	Synset('devilish.s.02')	a roguish grin	devilish, rascally, roguish		playful in an appealingly bold way
+Synset('playful.a.01')	Synset('kittenish.s.01')		kittenish, frisky		playful like a lively kitten
+Synset('unfit.a.01')	Synset('unfit.a.01')	an unfit parent / unfit for human consumption	unfit	SOCIAL	below the required standards for a purpose
+Synset('unfit.a.01')	Synset('subhuman.s.02')	subhuman conditions of life	subhuman		unfit for human beings
+Synset('unfit.a.01')	Synset('unsuitable.s.01')	a solvent unsuitable for use on wood surfaces	unsuitable		not meant or adapted for a particular purpose
+Synset('profound.a.01')	Synset('profound.a.01')	the differences are profound / a profound insight / a profound book / a profound mind / profound contempt / profound regret	profound	MIND	showing intellectual penetration or emotional depth
+Synset('profound.a.01')	Synset('deep.s.02')	deep thoughts / a deep allegory	deep		marked by depth of thinking
+Synset('profound.a.01')	Synset('thoughtful.s.01')	a deeply thoughtful essay	thoughtful		having intellectual depth
+Synset('obvious.a.01')	Synset('obvious.a.01')	obvious errors	obvious	MISCELLANEOUS	easily perceived by the senses or grasped by the mind
+Synset('obvious.a.01')	Synset('demonstrable.s.02')	obvious lies / a demonstrable lack of concern for the general welfare / practical truth provable to all men"- Walter Bagehot	demonstrable, provable		capable of being demonstrated or proved
+Synset('obvious.a.01')	Synset('writ_large.s.01')	the effect of...his irregular life could be seen writ large on his gaunt features	writ_large		made more obvious or prominent
+Synset('obvious.a.01')	Synset('axiomatic.s.01')	an axiomatic truth / we hold these truths to be self-evident	axiomatic, self-evident, taken_for_granted		evident without proof or argument
+Synset('obvious.a.01')	Synset('self-explanatory.s.01')		self-explanatory		needing no explanation
+Synset('obvious.a.01')	Synset('frank.s.02')	frank enjoyment	frank		clearly manifest; evident
+Synset('obvious.a.01')	Synset('transparent.s.04')	a transparent explanation / a transparent lie	transparent		easily understood or seen through (because of a lack of subtlety)
+Synset('obvious.a.01')	Synset('apparent.s.01')	the effects of the drought are apparent to anyone who sees the parched fields / evident hostility / manifest disapproval / patent advantages / made his meaning plain / it is plain that he is no reactionary / in plain view	apparent, evident, manifest, patent, plain, unmistakable		clearly revealed to the mind or the senses or judgment
+Synset('obvious.a.01')	Synset('open-and-shut.s.01')	an open-and-shut case	open-and-shut		so obvious as to be easily solved or decided
+Synset('capitalistic.a.01')	Synset('capitalistic.a.01')		capitalistic, capitalist	SOCIAL	favoring or practicing capitalism
+Synset('capitalistic.a.01')	Synset('individualistic.s.02')		individualistic, laissez-faire		with minimally restricted freedom in commerce
+Synset('capitalistic.a.01')	Synset('bourgeois.s.01')		bourgeois		(according to Marxist thought) being of the property-owning class and exploitive of the working class
+Synset('capitalistic.a.01')	Synset('competitive.s.02')		competitive, free-enterprise, private-enterprise		subscribing to capitalistic competition
+Synset('military.a.03')	Synset('military.a.03')	military police	military	SOCIAL	associated with or performed by members of the armed services as contrasted with civilians
+Synset('military.a.03')	Synset('martial.s.03')	martial law	martial		of or relating to the armed forces
+Synset('military.a.03')	Synset('noncombatant.s.02')		noncombatant		member of armed forces whose duties do not include fighting as e.g. a chaplain or surgeon
+Synset('military.a.03')	Synset('combatant.s.01')		combatant		engaging in or ready for combat
+Synset('military.a.03')	Synset('expeditionary.s.01')	the French expeditionary force in Indochina	expeditionary		(used of military forces) designed for military operations abroad
+Synset('plain.a.02')	Synset('plain.a.02')	plain food / stuck to the plain facts / a plain blue suit / a plain rectangular brick building	plain	PERCEPTION	not elaborate or elaborated; simple
+Synset('plain.a.02')	Synset('tailored.s.01')	a neat tailored suit / tailored curtains	tailored, trim		severely simple in line or design
+Synset('plain.a.02')	Synset('vanilla.s.02')	the most common type of bond is the straight or plain vanilla bond / the basic car is known as the vanilla version	vanilla		plain and without any extras or adornments
+Synset('plain.a.02')	Synset('chaste.s.02')	a chaste border of conventionalized flowers	chaste		pure and simple in design or style
+Synset('plain.a.02')	Synset('simple.s.07')	a simple country schoolhouse / her black dress--simple to austerity	simple		unornamented
+Synset('plain.a.02')	Synset('homely.s.03')	homely truths / letters to his son full of homely advice / homely fare	homely		plain and unpretentious
+Synset('plain.a.02')	Synset('dry.s.13')	dry toast / dry meat	dry		(of food) eaten without a spread or sauce or other garnish
+Synset('plain.a.02')	Synset('dry.s.12')	dry facts / rattled off the facts in a dry mechanical manner	dry		having no adornment or coloration
+Synset('plain.a.02')	Synset('featureless.s.01')	the featureless landscape of the steppe	featureless		lacking distinguishing characteristics or features
+Synset('plain.a.02')	Synset('literal.s.04')	it's the literal truth	literal		avoiding embellishment or exaggeration (used for emphasis)
+Synset('plain.a.02')	Synset('inelaborate.s.01')		inelaborate, unelaborate		not elaborate; lacking rich or complex detail
+Synset('plain.a.02')	Synset('austere.s.01')	a stark interior	austere, severe, stark, stern		severely simple
+Synset('plain.a.02')	Synset('bare.s.06')	only the bare facts / shocked by the mere idea / the simple passage of time was enough / the simple truth	bare, mere, simple		apart from anything else; without additions or modifications
+Synset('groomed.a.01')	Synset('groomed.a.01')	the manager was a beautifully groomed young man / his horse was always groomed	groomed	BODY	neat and smart in appearance; well cared for
+Synset('groomed.a.01')	Synset('well-groomed.s.02')		well-groomed		having your hair neatly brushed and combed
+Synset('groomed.a.01')	Synset('well-groomed.s.01')		well-groomed, well-dressed		having tasteful clothing and being scrupulously neat
+Synset('groomed.a.01')	Synset('brushed.s.02')	with shining hair neatly brushed / the freshly brushed clothes hung in the closet	brushed		(of hair or clothing) groomed with a brush
+Synset('groomed.a.01')	Synset('sleek.s.01')	sleek figures in expensive clothes	sleek		well-groomed and neatly tailored; especially too well-groomed
+Synset('groomed.a.01')	Synset('plastered.s.01')	black hair plastered with pomade	plastered, slicked		(of hair) made smooth by applying a sticky or glossy substance
+Synset('groomed.a.01')	Synset('pomaded.s.01')	pomaded hair	pomaded		(of hair) groomed with pomade
+Synset('groomed.a.01')	Synset('kempt.s.01')	a nicely kempt beard	kempt, tidy		(of hair) neat and tidy
+Synset('feminine.a.01')	Synset('feminine.a.01')	feminine intuition	feminine	BODY	associated with women and not with men
+Synset('feminine.a.01')	Synset('fair.s.06')	the fair sex	fair		attractively feminine
+Synset('feminine.a.01')	Synset('female.s.02')	female sensitiveness / female suffrage	female, distaff		characteristic of or peculiar to a woman
+Synset('feminine.a.01')	Synset('maidenlike.s.01')	a maidenly blush	maidenlike, maidenly		befitting or characteristic of a maiden
+Synset('feminine.a.01')	Synset('powder-puff.s.01')	powder-puff baseball / a powder-puff football game	powder-puff		used of competitive activities in which only women take part
+Synset('communicative.a.02')	Synset('communicative.a.02')	was a communicative person and quickly told all she knew"- W.M.Thackeray	communicative, communicatory	PERCEPTION	able or tending to communicate
+Synset('communicative.a.02')	Synset('nonverbal.s.03')	a nonverbal intelligence test	nonverbal		involving little use of language
+Synset('communicative.a.02')	Synset('narrative.s.01')	narrative poetry	narrative		consisting of or characterized by the telling of a story
+Synset('communicative.a.02')	Synset('gaelic-speaking.s.01')		Gaelic-speaking		able to communicate in Gaelic
+Synset('communicative.a.02')	Synset('english-speaking.s.01')		English-speaking		able to communicate in English
+Synset('communicative.a.02')	Synset('bantu-speaking.s.02')		Bantu-speaking		able to communicate in Bantu
+Synset('communicative.a.02')	Synset('italian-speaking.s.01')		Italian-speaking		able to communicate in Italian
+Synset('communicative.a.02')	Synset('oscan-speaking.s.01')		Oscan-speaking		able to communicate in Oscan
+Synset('communicative.a.02')	Synset('german-speaking.s.01')		German-speaking		able to communicate in German
+Synset('communicative.a.02')	Synset('openhearted.s.02')	openhearted advice	openhearted		freely communicative; candidly straightforward
+Synset('communicative.a.02')	Synset('siouan-speaking.s.01')		Siouan-speaking		able to communicate in a Siouan language
+Synset('communicative.a.02')	Synset('russian-speaking.s.01')		Russian-speaking		able to communicate in Russian
+Synset('communicative.a.02')	Synset('semitic-speaking.s.01')		Semitic-speaking		able to communicate in a Semitic language
+Synset('communicative.a.02')	Synset('outspoken.s.01')	outspoken in their opposition to segregation / a vocal assembly	outspoken, vocal		given to expressing yourself freely or insistently
+Synset('communicative.a.02')	Synset('french-speaking.s.01')		French-speaking		able to communicate in French
+Synset('communicative.a.02')	Synset('kannada-speaking.s.01')		Kannada-speaking		able to communicate in Kannada
+Synset('communicative.a.02')	Synset('communicational.s.01')	he had few communicational grooves available for use	communicational		used in communication
+Synset('communicative.a.02')	Synset('livonian-speaking.s.01')		Livonian-speaking		able to communicate in Livonian
+Synset('communicative.a.02')	Synset('turkic-speaking.s.01')		Turkic-speaking		able to communicate in Turkic
+Synset('communicative.a.02')	Synset('communicable.s.02')	communicable ideas	communicable		readily communicated
+Synset('communicative.a.02')	Synset('heraldic.s.01')	the Beatles were heraldic of a new style of music	heraldic		indicative of or announcing something to come
+Synset('communicative.a.02')	Synset('finno-ugric-speaking.s.01')		Finno-Ugric-speaking		able to communicate in a Finno-Ugric language
+Synset('communicative.a.02')	Synset('gestural.s.02')	the study of gestural communication / art like gesture is a form of nonverbal expression	gestural, nonverbal		being other than verbal communication
+Synset('communicative.a.02')	Synset('spanish-speaking.s.01')		Spanish-speaking		able to communicate in Spanish
+Synset('communicative.a.02')	Synset('anecdotic.s.01')	anecdotal conversation / an anecdotal history of jazz / he was at his anecdotic best	anecdotic, anecdotal, anecdotical		characterized by or given to telling anecdotes
+Synset('communicative.a.02')	Synset('expressive.s.01')	a very expressive face	expressive		characterized by expression
+Synset('communicative.a.02')	Synset('verbal.s.01')	verbal imagery / a verbal protest	verbal		communicated in the form of words
+Synset('communicative.a.02')	Synset('samoyedic-speaking.s.01')		Samoyedic-speaking		able to communicate in Samoyedic
+Synset('communicative.a.02')	Synset('nonverbal.s.02')	rural students often come from nonverbal backgrounds	nonverbal		lacking verbal skill
+Synset('communicative.a.02')	Synset('yarn-spinning.s.01')		yarn-spinning		inclined to tell long and involved stories (often of incredible happenings)
+Synset('communicative.a.02')	Synset('icelandic-speaking.s.01')		Icelandic-speaking		able to communicate in Icelandic
+Synset('communicative.a.02')	Synset('gestural.s.01')		gestural, sign, signed, sign-language		used of the language of the deaf
+Synset('communicative.a.02')	Synset('chatty.s.02')		chatty, gossipy, newsy		prone to friendly informal communication
+Synset('communicative.a.02')	Synset('gesticulating.s.01')	her gesticulating hands and arms made words almost unnecessary	gesticulating		making gestures while speaking
+Synset('communicative.a.02')	Synset('japanese-speaking.s.01')		Japanese-speaking		able to communicate in Japanese
+Synset('communicative.a.02')	Synset('blabbermouthed.s.02')		blabbermouthed, leaky, talebearing, tattling		prone to communicate confidential information
+Synset('communicative.a.02')	Synset('flemish-speaking.s.01')		Flemish-speaking		able to communicate in Flemish
+Synset('communicative.a.02')	Synset('expansive.s.04')	wine made the guest expansive	expansive, talkative		friendly and open and willing to talk
+Synset('varied.a.01')	Synset('varied.a.01')	immigrants' varied ethnic and religious traditions / his work is interesting and varied	varied	MISCELLANEOUS	characterized by variety
+Synset('varied.a.01')	Synset('varying.s.01')	the varying angles of roof slope / nature is infinitely variable	varying, variable		marked by diversity or difference
+Synset('varied.a.01')	Synset('variform.s.01')		variform		varying in form or shape
+Synset('varied.a.01')	Synset('many-sided.s.02')	a many-sided subject / a multifaceted undertaking / multifarious interests / the multifarious noise of a great city / a miscellaneous crowd	many-sided, multifaceted, miscellaneous, multifarious		having many aspects
+Synset('varied.a.01')	Synset('omnifarious.s.01')	omnifarious reading	omnifarious		of all varieties or forms or kinds
+Synset('varied.a.01')	Synset('varicolored.s.01')		varicolored, varicoloured, variegated		having a variety of colors
+Synset('varied.a.01')	Synset('versatile.s.01')	his various achievements are impressive / his vast and versatile erudition	versatile, various		having great diversity or variety
+Synset('harmful.a.01')	Synset('harmful.a.01')	too much sun is harmful to the skin / harmful effects of smoking	harmful	BODY	causing or capable of causing harm
+Synset('harmful.a.01')	Synset('nocent.s.01')		nocent		having a tendency to cause harm
+Synset('harmful.a.01')	Synset('ill.s.02')	ill effects / it's an ill wind that blows no good	ill		resulting in suffering or adversity
+Synset('harmful.a.01')	Synset('damaging.s.01')	damaging to career and reputation / the reporter's coverage resulted in prejudicial publicity for the defendant	damaging, detrimental, prejudicial, prejudicious		(sometimes followed by `to') causing harm or injury
+Synset('harmful.a.01')	Synset('counterproductive.s.01')		counterproductive		tending to hinder the achievement of a goal
+Synset('harmful.a.01')	Synset('bad.s.11')	bad air / smoking is bad for you	bad		capable of harming
+Synset('harmful.a.01')	Synset('calumniatory.s.01')		calumniatory, calumnious, defamatory, denigrative, denigrating, denigratory, libellous, libelous, slanderous		(used of statements) harmful and often untrue; tending to discredit or malign
+Synset('harmful.a.01')	Synset('insidious.s.03')	glaucoma is an insidious disease / a subtle poison	insidious, pernicious, subtle		working or spreading in a hidden and usually injurious way
+Synset('harmful.a.01')	Synset('bruising.s.01')	a bruising experience / protected from the bruising facts of battle"- John Mason Brown	bruising		causing mental or emotional injury
+Synset('harmful.a.01')	Synset('mischievous.s.02')	mischievous rumors and falsehoods	mischievous		deliberately causing harm or damage
+Synset('harmful.a.01')	Synset('stabbing.s.01')	a stabbing remark / wounding and false charges of disloyalty	stabbing, wounding		causing physical or especially psychological injury
+Synset('harmful.a.01')	Synset('deleterious.s.01')	deleterious chemical additives	deleterious, hurtful, injurious		harmful to living things
+Synset('harmful.a.01')	Synset('abusive.s.02')	abusive punishment / argued...that foster homes are abusive	abusive		characterized by physical or psychological maltreatment
+Synset('harmful.a.01')	Synset('catastrophic.s.01')	a catastrophic depression / catastrophic illness / a ruinous course of action	catastrophic, ruinous		extremely harmful; bringing physical or financial ruin
+Synset('honest.a.01')	Synset('honest.a.01')	honest lawyers / honest reporting	honest, honorable	BEHAVIOR	not disposed to cheat or defraud; not deceptive or fraudulent
+Synset('honest.a.01')	Synset('downright.s.01')	a downright answer / a downright kind of person	downright		characterized by plain blunt honesty
+Synset('submissive.a.01')	Synset('submissive.a.01')	submissive servants / a submissive reply / replacing troublemakers with more submissive people	submissive	BEHAVIOR	inclined or willing to submit to orders or wishes of others or showing such inclination
+Synset('submissive.a.01')	Synset('abject.s.04')	an abject apology	abject		showing humiliation or submissiveness
+Synset('submissive.a.01')	Synset('meek.s.03')	compliant and anxious to suit his opinions of those of others / a fine fiery blast against meek conformity"- Orville Prescott / she looked meek but had the heart of a lion / was submissive and subservient	meek, spiritless		evidencing little spirit or courage; overly submissive or compliant
+Synset('submissive.a.01')	Synset('bowed.s.04')		bowed, bowing		showing an excessively deferential manner
+Synset('submissive.a.01')	Synset('cringing.s.01')		cringing, groveling, grovelling, wormlike, wormy		totally submissive
+Synset('submissive.a.01')	Synset('dominated.s.02')		dominated, henpecked		harassed by persistent nagging
+Synset('sophisticated.a.01')	Synset('sophisticated.a.01')	sophisticated young socialites / a sophisticated audience / a sophisticated lifestyle / a sophisticated book	sophisticated	BEHAVIOR	having or appealing to those having worldly knowledge and refinement and savoir-faire
+Synset('sophisticated.a.01')	Synset('polished.s.02')	his polished manner / maintained an urbane tone in his letters	polished, refined, svelte, urbane		showing a high degree of refinement and the assurance that comes from wide social experience
+Synset('sophisticated.a.01')	Synset('blase.s.01')	the blase traveler refers to the ocean he has crossed as `the pond' / the benefits of his worldly wisdom	blase, worldly		very sophisticated especially because of surfeit; versed in the ways of the world
+Synset('sophisticated.a.01')	Synset('worldly-wise.s.01')		worldly-wise		experienced in and wise to the ways of the world
+Synset('sophisticated.a.01')	Synset('intelligent.s.02')	well-informed readers	intelligent, well-informed		possessing sound knowledge
+Synset('even.a.03')	Synset('even.a.03')	an even application of varnish / an even floor / the road was not very even / the picture is even with the window	even	SPATIAL	being level or straight or regular and without variation as e.g. in shape or texture; or being in the same plane or at the same height as something else (i.e. even with)
+Synset('even.a.03')	Synset('flat.s.01')	a flat desk / acres of level farmland / a plane surface / skirts sewn with fine flat seams	flat, level, plane		having a surface without slope, tilt in which no part is higher or lower than another
+Synset('even.a.03')	Synset('flush.s.01')	a door flush with the wall / the bottom of the window is flush with the floor	flush		of a surface exactly even with an adjoining one, forming the same plane
+Synset('even.a.03')	Synset('level.s.04')	the picture is level	level		oriented at right angles to the plumb
+Synset('even.a.03')	Synset('true.s.12')	the window frame isn't quite true	true, straight		accurately fitted; level
+Synset('even.a.03')	Synset('straight-grained.s.01')		straight-grained		of timber; having fibers that run in parallel
+Synset('even.a.03')	Synset('lap-jointed.s.01')		lap-jointed		jointed so as to produce a flush surface
+Synset('even.a.03')	Synset('flatbottom.s.01')	a flatbottom kettle / a flatbottomed boat	flatbottom, flatbottomed		having a flat bottom
+Synset('even.a.03')	Synset('justified.s.01')		justified		having words so spaced that lines have straight even margins
+Synset('decreasing.a.01')	Synset('decreasing.a.01')		decreasing	MOTION	becoming less or smaller
+Synset('decreasing.a.01')	Synset('dwindling.s.01')		dwindling, tapering, tapering_off		gradually decreasing until little remains
+Synset('decreasing.a.01')	Synset('detractive.s.01')	detractive influences on the volume of investment	detractive		causing to decrease in importance or value
+Synset('decreasing.a.01')	Synset('diminishing.s.01')	diminishing returns / his diminishing respect for her	diminishing		becoming smaller or less or appearing to do so
+Synset('decreasing.a.01')	Synset('depreciating.s.01')	a depreciating currency / depreciatory effects on prices	depreciating, depreciative, depreciatory		tending to decrease or cause a decrease in value
+Synset('decreasing.a.01')	Synset('falling.s.01')	falling temperature	falling		decreasing in amount or degree
+Synset('covered.a.01')	Synset('covered.a.01')	women with covered faces / covered wagons / a covered balcony	covered	SUBSTANCE	overlaid or spread or topped with or enclosed within something; sometimes used as a combining form
+Synset('covered.a.01')	Synset('awninged.s.01')	with awninged windows on the west side	awninged		covered with an awning
+Synset('covered.a.01')	Synset('moon-splashed.s.01')	the moon-splashed world	moon-splashed		splashed or covered patchily with moonlight
+Synset('covered.a.01')	Synset('beaded.s.01')	a face beaded with sweat	beaded		covered with beads of liquid
+Synset('covered.a.01')	Synset('dusty.s.01')	a dusty pile of books	dusty, dust-covered		covered with a layer of dust
+Synset('covered.a.01')	Synset('overgrown.s.01')		overgrown		covered with growing plants
+Synset('covered.a.01')	Synset('cloaked.s.02')	leaf-clothed trees / fog-cloaked meadows / a beam draped with cobwebs / cloud-wrapped peaks	cloaked, clothed, draped, mantled, wrapped		covered with or as if with clothes or a wrap or cloak
+Synset('covered.a.01')	Synset('snow-clad.s.01')	snow-clad hills / snow-covered roads / a long snowy winter	snow-clad, snow-covered, snowy		covered with snow
+Synset('covered.a.01')	Synset('smothered.s.02')	bonnets smothered with flowers / smothered chicken is chicken cooked in a seasoned gravy	smothered		completely covered
+Synset('covered.a.01')	Synset('thickspread.s.01')	toast thickspread with jam	thickspread		covered thickly
+Synset('covered.a.01')	Synset('crusted.s.01')		crusted, encrusted, crusty, crustlike		having a hardened crust as a covering
+Synset('covered.a.01')	Synset('white.s.04')	a white Christmas / the white hills of a northern winter	white, snowy		marked by the presence of snow
+Synset('covered.a.01')	Synset('plastered.s.02')		plastered, sealed		(of walls) covered with a coat of plaster
+Synset('covered.a.01')	Synset('dabbled.s.01')	waves dabbled with moonlight / a blood-spattered room / gardens splashed with color / kitchen walls splattered with grease	dabbled, spattered, splashed, splattered		covered with bright patches (often used in combination)
+Synset('covered.a.01')	Synset('peritrichous.s.01')		peritrichous		covered all over with uniformly distributed flagella
+Synset('covered.a.01')	Synset('ariled.s.01')		ariled, arillate		(of some seeds) having a fleshy and usually brightly colored cover
+Synset('covered.a.01')	Synset('drenched.s.01')	drenched in moonlight / moon-drenched meadows	drenched, drenched_in		abundantly covered or supplied with; often used in combination
+Synset('covered.a.01')	Synset('splashy.s.03')		splashy		covered with patches of bright color
+Synset('covered.a.01')	Synset('mud-beplastered.s.01')	mud-beplastered arguments	mud-beplastered		covered with or as if with mud
+Synset('covered.a.01')	Synset('tiled.s.01')	baths with tiled walls / a tiled kitchen	tiled		covered or furnished with tiles
+Synset('covered.a.01')	Synset('sun-drenched.s.01')	sun-drenched beaches along the Riviera	sun-drenched		covered with sunlight
+Synset('covered.a.01')	Synset('moss-grown.s.01')		moss-grown, mossy		overgrown with moss
+Synset('covered.a.01')	Synset('sealed.s.06')	a sealed driveway	sealed		covered with a waterproof coating
+Synset('covered.a.01')	Synset('blanketed.s.01')		blanketed		covered with (or as if with) a blanket
+Synset('covered.a.01')	Synset('canopied.s.01')	a canopied bed / streets canopied by stately trees	canopied		covered with or as with a canopy
+Synset('covered.a.01')	Synset('muffled.s.02')	children muffled almost to the eyebrows	muffled		wrapped up especially for protection or secrecy
+Synset('generous.a.01')	Synset('generous.a.01')	a generous donation	generous	BEHAVIOR	willing to give and share unstintingly
+Synset('generous.a.01')	Synset('benevolent.s.03')		benevolent, freehearted		generous in providing aid to others
+Synset('generous.a.01')	Synset('lavish.s.01')	distributed gifts with a lavish hand / the critics were lavish in their praise / a munificent gift / his father gave him a half-dollar and his mother a quarter and he thought them munificent / prodigal praise / unsparing generosity / his unstinted devotion / called for unstinting aid to Britain	lavish, munificent, overgenerous, too-generous, unsparing, unstinted, unstinting		very generous
+Synset('generous.a.01')	Synset('big.s.12')	was a big tipper / the bounteous goodness of God / bountiful compliments / a freehanded host / a handsome allowance / Saturday's child is loving and giving / a liberal backer of the arts / a munificent gift / her fond and openhanded grandfather	big, bighearted, bounteous, bountiful, freehanded, handsome, giving, liberal, openhanded		given or giving freely
+Synset('generous.a.01')	Synset('unselfish.s.02')		unselfish		not greedy
+Synset('aesthetic.a.02')	Synset('aesthetic.a.02')	the aesthetic faculties / an aesthetic person / aesthetic feeling / the illustrations made the book an aesthetic success	aesthetic, esthetic, aesthetical, esthetical	MISCELLANEOUS	concerning or characterized by an appreciation of beauty or good taste
+Synset('aesthetic.a.02')	Synset('sensuous.s.01')	the sensuous joy from all things fair	sensuous		taking delight in beauty
+Synset('aesthetic.a.02')	Synset('painterly.s.01')		painterly		having qualities unique to the art of painting
+Synset('aesthetic.a.02')	Synset('cosmetic.s.02')	cosmetic surgery / enhansive makeup	cosmetic, enhancive		serving an aesthetic purpose in beautifying the body
+Synset('aesthetic.a.02')	Synset('artistic.s.02')	artistic workmanship	artistic		satisfying aesthetic standards and sensibilities
+Synset('active.a.05')	Synset('active.a.05')	an active toddler / active as a gazelle / an active man is a man of action	active	BODY	characterized by energetic activity
+Synset('active.a.05')	Synset('hyperactive.s.01')	a hyperactive child	hyperactive, overactive		more active than normal
+Synset('active.a.05')	Synset('hot.s.21')	a hot week on the stock market	hot		marked by excited activity
+Synset('active.a.05')	Synset('on_the_go.s.01')	is always on the go	on_the_go		(of a person) very busy and active
+Synset('active.a.05')	Synset('acrobatic.s.01')	an acrobatic dance / an athletic child / athletic playing / gymnastic exercises	acrobatic, athletic, gymnastic		vigorously active
+Synset('active.a.05')	Synset('about.s.01')	up and about / the whole town was astir over the incident	about, astir		on the move
+Synset('active.a.05')	Synset('sporty.s.03')		sporty		appropriate for sport or engagement in a sport
+Synset('active.a.05')	Synset('agile.s.01')	sleek and agile as a gymnast / as nimble as a deer / nimble fingers / quick of foot / the old dog was so spry it was halfway up the stairs before we could stop it	agile, nimble, quick, spry		moving quickly and lightly
+Synset('affixed.a.01')	Synset('affixed.a.01')	the affixed labels	affixed	SPATIAL	firmly attached
+Synset('affixed.a.01')	Synset('basifixed.s.01')		basifixed		attached by its base (as certain anthers to their filaments or stalks)
+Synset('affixed.a.01')	Synset('mounted.s.01')		mounted		assembled for use; especially by being attached to a support
+Synset('affixed.a.01')	Synset('appendant.s.01')		appendant		affixed as an appendage
+Synset('affixed.a.01')	Synset('glued.s.01')	he stayed glued to one spot / pieces of pasted paper	glued, pasted		affixed or as if affixed with glue or paste
+Synset('outward.a.01')	Synset('outward.a.01')	a concern with outward beauty rather than with inward reflections	outward	SPATIAL	relating to physical reality rather than with thoughts or the mind
+Synset('outward.a.01')	Synset('external.s.04')	external composure / an external concern for reputation"- A.R.Gurney,Jr.	external		purely outward or superficial
+Synset('outward.a.01')	Synset('outer.s.02')	outer reality	outer		located outside
+Synset('future.a.01')	Synset('future.a.01')	some future historian will evaluate him	future	TEMPORAL	yet to be or coming
+Synset('future.a.01')	Synset('emerging.s.01')	the rising generation	emerging, rising		coming to maturity
+Synset('future.a.01')	Synset('approaching.s.01')	the approaching election / this coming Thursday / the forthcoming holidays / the upcoming spring fashions	approaching, coming, forthcoming, upcoming		of the relatively near future
+Synset('future.a.01')	Synset('proximo.s.01')	scheduled for the 6th prox	proximo, prox		in or of the next month after the present
+Synset('future.a.01')	Synset('in_store.s.01')	gave us a hint of the excitement that was in store for us	in_store		in readiness; awaiting
+Synset('future.a.01')	Synset('early.s.06')	look for an early end to the negotiations	early		expected in the near future
+Synset('future.a.01')	Synset('future_day.s.01')	a future-day Gibbon of Macaulay	future_day		yet to come
+Synset('reverberant.a.01')	Synset('reverberant.a.01')	a reverberant room / the reverberant booms of cannon	reverberant	PERCEPTION	having a tendency to reverberate or be repeatedly reflected
+Synset('reverberant.a.01')	Synset('clinking.s.01')		clinking		like the light sharp ringing sound of glasses being tapped
+Synset('reverberant.a.01')	Synset('jingling.s.01')	jingling sleigh bells	jingling, jingly		having a series of high-pitched ringing sounds like many small bells
+Synset('reverberant.a.01')	Synset('hollow.s.02')	the hollow sound of footsteps in the empty ballroom	hollow		as if echoing in a hollow space
+Synset('reverberant.a.01')	Synset('bright.s.08')	the bright sound of the trumpet section / the brilliant sound of the trumpets	bright, brilliant		clear and sharp and ringing
+Synset('reverberant.a.01')	Synset('live.s.04')	a live concert hall	live		highly reverberant
+Synset('reverberant.a.01')	Synset('tinkling.s.01')	sounding brass and a tinkling cymbal	tinkling, tinkly		like the short high ringing sound of a small bell
+Synset('reverberant.a.01')	Synset('echoing.s.01')	a hotel with echoing halls	echoing, reechoing		(of sounds) repeating by reflection
+Synset('reverberant.a.01')	Synset('resonant.s.01')	a resonant voice / hear the rolling thunder	resonant, resonating, resounding, reverberating, reverberative		characterized by resonance
+Synset('reverberant.a.01')	Synset('vibrant.s.02')	the men's vibrant voices	vibrant		of sounds that are strong and resonating
+Synset('lovable.a.01')	Synset('lovable.a.01')	a mischievous but lovable child	lovable, loveable	BEHAVIOR	having characteristics that attract love or affection
+Synset('lovable.a.01')	Synset('adorable.s.01')		adorable, endearing, lovely		lovable especially in a childlike or naive way
+Synset('lovable.a.01')	Synset('angelic.s.03')	an angelic smile / a cherubic face / looking so seraphic when he slept / a sweet disposition	angelic, angelical, cherubic, seraphic, sweet		having a sweet nature befitting an angel or cherub
+Synset('lovable.a.01')	Synset('cuddlesome.s.01')	a cuddlesome baby / a cuddly teddybear	cuddlesome, cuddly		inviting cuddling or hugging

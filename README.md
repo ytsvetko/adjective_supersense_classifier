@@ -10,7 +10,7 @@ Augmenting English Adjective Senses with Supersenses.
 **Yulia Tsvetkov, Nathan Schneider, Dirk Hovy, Archna Bhatia, Manaal Faruqui and Chris Dyer.**
 In Proc. LREC'14.
 
-<i class="icon-share"></i> http://www.cs.cmu.edu/~ytsvetko/
+<i class="icon-share"></i> http://www.cs.cmu.edu/~ytsvetko/papers/adj-lrec14.pdf
 
 You can run the classifier like this:
 
